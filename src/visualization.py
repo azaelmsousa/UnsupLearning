@@ -54,6 +54,7 @@ def visualize_sup_scatter_hover(data_2d, label_ids, info, figsize=(20,20), color
     
     nb_classes = len(np.unique(label_ids))
     
+    
     '''
     for label_id in np.unique(label_ids):
         if not(color):
@@ -75,18 +76,19 @@ def visualize_sup_scatter_hover(data_2d, label_ids, info, figsize=(20,20), color
                     marker='o',
                     linewidth='1',
                     alpha=1.0)
-
+   
     annot = ax.annotate("", xy=(0,0), xytext=(20,20),textcoords="offset points",
                     bbox=dict(boxstyle="round", fc="w"),
                     arrowprops=dict(arrowstyle="->"))
+
     annot.set_visible(False)
 
     def update_annot(ind):
 
         pos = sc.get_offsets()[ind["ind"][0]]
         annot.xy = pos
-        text = "{}, {}".format(" ".join(list(map(str,data_2d[ind["ind"]]))), 
-                           " ".join([info[n] for n in ind["ind"]]))
+        #text = "{}, {}".format(" ".join(list(map(str,data_2d[ind["ind"]])))," ".join([info[n] for n in ind["ind"]]))
+        text = "{}".format(" ".join([info[n] for n in ind["ind"]]))
         annot.set_text(text)
         #annot.get_bbox_patch().set_facecolor(cmap(norm(c[ind["ind"][0]])))
         annot.get_bbox_patch().set_alpha(0.4)
