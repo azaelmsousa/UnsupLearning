@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import sklearn 
 import os
 
 
@@ -7,16 +8,16 @@ def readBOW(path='../../data/'):
 
 	print(os.listdir(path))
 
-	data = pd.read_csv('%s/bags.csv'%(path))
-
+	data = pd.read_csv('%s/bags.csv'%(path), header=None)
+	data = sklearn.preprocessing.normalize(data, axis=1)
 	return data
 
 def readWord2Vec(path='../../data/'):
 
 	print(os.listdir(path))
 
-	data = pd.read_csv('%s/word2vec.csv'%(path))
-
+	data = pd.read_csv('%s/word2vec.csv'%(path), header=None)
+	data = sklearn.preprocessing.normalize(data, axis=1)
 	return data
 
 def readNews(path='../../data/'):

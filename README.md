@@ -3,6 +3,7 @@
 This is the third project of the Machine Learning subject (MO444) and it approaches unsupervised learning techniques for the clustering of news.
 
 ---
+
 ## Activities
 
 1. Discover the number of groups present in the data or a reliable range of possible values. Do some experiments in this regard.
@@ -35,9 +36,9 @@ Dataset Information:
     * Cosine: Use cosine as a distance metric for the centroids to avoid problems with the vector norm.
     * Kullback Leiber Divergence: A non-euclidian evaluation for the model.
     * References: <http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf>
-4. Analyze centroids.
+3. Analyze centroids.
     * Number of centroids from 3 to 10.
     * Distance metrics (cosine, euclidian).
     * Clustering measures (mean, median and `point`).
-5. Apply PCA as a Dimensionality Reduction.
+4. Apply PCA as a Dimensionality Reduction.
     * Redo all above experiments.
