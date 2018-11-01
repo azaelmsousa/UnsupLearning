@@ -1,92 +1,74 @@
-563465600056700928 Thu Feb 05 22:34:02 +0000 2015 How to persuade skeptical or misinformed parents to vaccinate @kellywallacetv
-563045642054803456 Wed Feb 04 18:45:16 +0000 2015 5 myths surrounding #vaccines -- and the reality
-563038051404746752 Wed Feb 04 18:15:06 +0000 2015 You are 100 times more likely to be struck by lightning than get serious allergic reaction to #vaccine @drsanjaygupta
-562677901880205314 Tue Feb 03 18:24:00 +0000 2015 Follow the lastet news and debate on the 2015 #measles outbreak here:
-518076370866671616 Fri Oct 03 16:33:26 +0000 2014 .@reuableahcim Great Q! We'll ask TX health officials. In the meantime, check out this page:
-512706803650420736 Thu Sep 18 20:56:42 +0000 2014 It's time to get your #flu shot! Check out this year's @CDCgov recs:
-505062769754796032 Thu Aug 28 18:42:02 +0000 2014 We're saying it: Ab workouts are a waste of time! Here's why: 
-496994138709950464 Wed Aug 06 12:20:11 +0000 2014 RT @SELFmagazine: These kitchen hacks are life-changing. That is all:
-438061322530729984 Mon Feb 24 21:22:12 +0000 2014 Acetaminophen in pregnancy linked to 'ADHD-like behavior'
-425343321536737280 Mon Jan 20 19:05:25 +0000 2014 You'd use bricks to fix a brick wall, right? This family hopes fish oil will fix their son's brain
-405706886667714560 Wed Nov 27 14:37:14 +0000 2013 A middle schooler didn't expect to see her classmates cry when she decided to show them her big secret.
-405691646584438785 Wed Nov 27 13:36:40 +0000 2013 Princeton is making a meningitis B vaccine available
-402805764990836736 Tue Nov 19 14:29:12 +0000 2013 Is fancy bottled water somehow better for you than plain tap water? @upwave
-397451548671762432 Mon Nov 04 19:53:28 +0000 2013 Matthew used @loseit to track calories &amp; lose 265 lbs. in 14 months
-346975790367379456 Tue Jun 18 13:00:49 +0000 2013 Head lice don't take the summer off! How you can prevent and treat 'em
-320564759068041217 Sat Apr 06 15:52:49 +0000 2013 Kevin Ware: 'This is in God's plan'
-289090118176878592 Wed Jan 09 19:23:49 +0000 2013 Today's #getfit tip from @DrSanjayGupta and @peoplemag: Follow the Japanese phrase "hara hachi bu"
-262879145950867456 Mon Oct 29 11:30:47 +0000 2012 FDA: Company warned of contamination before outbreak
-258549008509845504 Wed Oct 17 12:44:21 +0000 2012 Nancy Pelosi: The truth about #Medicare
-253449559626375169 Wed Oct 03 11:00:58 +0000 2012 Do you act out your dreams? @sleepwalkmovie puts a spotlight on those that do
-582603289264570370 Mon Mar 30 18:00:23 +0000 2015 Mental illness alone does not explain Germanwings co-pilot’s behavior, experts say  
-580389963042291712 Tue Mar 24 15:25:24 +0000 2015 Farmers fund research to breed gluten-free wheat 
-579060076360704000 Fri Mar 20 23:20:55 +0000 2015 Should patients remind health workers to wash their hands? 
-578620425103618049 Thu Mar 19 18:13:54 +0000 2015 Stem cell therapy may help treat type 2 diabetes  
-578228141698711552 Wed Mar 18 16:15:06 +0000 2015 Tennessee mom works toward PhD in quest to cure son from genetic disorder 
-573541100247498752 Thu Mar 05 17:50:28 +0000 2015 #Flu winds down as FDA aims for better #vaccine next winter
-569929713092833281 Mon Feb 23 18:40:07 +0000 2015 US health officials push for stricter ‘superbug’ defense
-568100490950664192 Wed Feb 18 17:31:26 +0000 2015 Preschoolers who nap may sleep worse at night
-567372934638227456 Mon Feb 16 17:20:23 +0000 2015 Is it OK for doctors to 'google' patients?
-566289525178372097 Fri Feb 13 17:35:18 +0000 2015 Chronic stress may put TBI caregivers at risk for illness 
-565927112222466048 Thu Feb 12 17:35:12 +0000 2015 Study ties more deaths, types of disease, to smoking
-565232512256204800 Tue Feb 10 19:35:07 +0000 2015 Fighting the #flu: When you need to stay home and in bed
-564904137763352577 Mon Feb 09 21:50:16 +0000 2015 Mother denies abandoning baby with Down syndrome
-562339894320967680 Mon Feb 02 20:00:53 +0000 2015 Computer tracks eye movements to detect #concussions
-560542958723010561 Wed Jan 28 21:00:30 +0000 2015 What #Facebook #addiction looks like in the brain
-560170451549556737 Tue Jan 27 20:20:17 +0000 2015 Disabled woman writes books with her toes
-555805569643466752 Thu Jan 15 19:15:48 +0000 2015 FDA says one dead, many ill after receiving non-sterile solution
-553638647254491136 Fri Jan 09 19:45:14 +0000 2015 10,000 steps? New trackers go beyond the data dump
-553321514838532096 Thu Jan 08 22:45:04 +0000 2015 Distant family history an effective predictor of prostate #cancer, study says
-545980696364613632 Fri Dec 19 16:35:16 +0000 2014 One million people wounded, diseases spreading in #Syria, WHO
-545627107154735104 Thu Dec 18 17:10:14 +0000 2014 #Ebola fears speed changes in US hospital record systems
-543433943568371712 Fri Dec 12 15:55:23 +0000 2014 Mali says has no remaining #Ebola cases as last patient recovers
-543152151783301120 Thu Dec 11 21:15:38 +0000 2014 Red Cross urges vigilance to avert holiday spike in Ebola cases  
+575477028658376704 Wed Mar 11 02:03:10 +0000 2015 RT @CNNMoney: Would you trust this to measure your blood sugar?
+485126190575808512 Fri Jul 04 18:21:11 +0000 2014 It's become public enemy No. 1 in nutrition. How much sugar is in your drinks?
+485035734689406976 Fri Jul 04 12:21:45 +0000 2014 RT @KeeganSheridan: Wonderful visuals in this @cnnhealth slide show. Sweet comparisons: How much #sugar is in that drink?
+484648300335738881 Thu Jul 03 10:42:13 +0000 2014 You can drink this Starbucks latte, or eat 2.5 Krispy Kreme donuts for the same amt. of sugar
+484399872192180224 Wed Jul 02 18:15:03 +0000 2014 You could drink a 20 oz. Coke, or eat 5 Swiss Rolls for the same amount sugar
+441991235624906753 Fri Mar 07 17:38:17 +0000 2014 Do you eat less than 25 g of sugar/day? That's less than the amount in 1 can of soda
+430714434986573824 Tue Feb 04 14:48:18 +0000 2014 Sugar not only makes you fat, it also may make you sick
+426387978454573056 Thu Jan 23 16:16:30 +0000 2014 Chemical found in soda may be dangerous to your health @consumerreports says. No, it's not sugar (this time)
+357002165694365696 Tue Jul 16 05:02:03 +0000 2013 Real or fake sugar: Does it matter?
+356859307519778816 Mon Jul 15 19:34:23 +0000 2013 Real or fake sugar: Does it matter?
+308581661942108162 Mon Mar 04 14:16:16 +0000 2013 Our obsession with sugar, salt and fat
+582545968689741824 Mon Mar 30 14:12:36 +0000 2015 Sugar-seeking MRI may detect cancer, improve biopsies  
+578554232237875200 Thu Mar 19 13:50:52 +0000 2015 The 4 most confusing things about sugar  
+573229058315718656 Wed Mar 04 21:10:32 +0000 2015 UN says world eating excess sugar, suggests cutting 5-10 percent from #diet
+573200145082404864 Wed Mar 04 19:15:38 +0000 2015 Large breakfast, small dinner tied to better #diabetes blood sugar
+555066849239773184 Tue Jan 13 18:20:24 +0000 2015 Older #diabetics may be pushing blood sugar too low
+552574189652443136 Tue Jan 06 21:15:27 +0000 2015 #Sugar is making us very sick, researchers warn
 543108050501259264 Thu Dec 11 18:20:24 +0000 2014 Scientists debate claims that sugar is worse than salt
-543091649535295488 Thu Dec 11 17:15:14 +0000 2014 Unchecked superbugs could kill 10 million a year, cost $100 trillion
-542714193137635328 Wed Dec 10 16:15:21 +0000 2014 Junior doctors in Sierra Leone strike over lack of #Ebola care
-542068787303174145 Mon Dec 08 21:30:44 +0000 2014 US suspends some Canadian poultry imports due to bird flu
-540558720066129920 Thu Dec 04 17:30:16 +0000 2014 Geography may limit access to #cancer clinical trials
-539840195177480192 Tue Dec 02 17:55:06 +0000 2014 Changes coming to kidney transplant waiting list
-539544535337299968 Mon Dec 01 22:20:16 +0000 2014 What your dreams about murder say about you
-304376203148685312 Wed Feb 20 23:45:16 +0000 2013 Want killer abs? @JillianMichaels shows you how get them:
-301076356551307264 Mon Feb 11 21:12:51 +0000 2013 Poor Nutrition Can Affect #Sleep
-300359798594088962 Sat Feb 09 21:45:31 +0000 2013 Got a cough? Here, 8 home remedies to try:
-291669979990994944 Wed Jan 16 22:15:16 +0000 2013 Your dog may be able to read you more than you think
-582323221908709378 Sun Mar 29 23:27:29 +0000 2015 Parents rarely spot child obesity
-581988292343635968 Sun Mar 29 01:16:36 +0000 2015 The Bolivian women who knit parts for hearts
-579262778772307969 Sat Mar 21 12:46:23 +0000 2015 VIDEO: Hunt 'hopeful' of Men B jab deal
-579216074110976000 Sat Mar 21 09:40:48 +0000 2015 VIDEO: Criticism of Men B vaccine delay
-576391332471537664 Fri Mar 13 14:36:17 +0000 2015 Scarlet fever cases reach new high
-568132709798653952 Wed Feb 18 19:39:28 +0000 2015 VIDEO: Painful wait for a child's diagnosis
-566562813405954049 Sat Feb 14 11:41:15 +0000 2015 VIDEO: PM orders sickness benefits review
-562203609207554048 Mon Feb 02 10:59:20 +0000 2015 UK health worker tested for Ebola
-560684288576724992 Thu Jan 29 06:22:06 +0000 2015 VIDEO: Care: 'You have to be cold-hearted'
-552425666617294848 Tue Jan 06 11:25:17 +0000 2015 'Unique' life of having two penises
-547307675050971136 Tue Dec 23 08:28:12 +0000 2014 VIDEO: NHS: Help elderly to ease A&amp;E pressure
-543082837352529920 Thu Dec 11 16:40:13 +0000 2014 U-turn over obese surgery bar plan
-537766503379005440 Thu Nov 27 00:35:00 +0000 2014 Many elderly 'struggle' at home
-537741443012382721 Wed Nov 26 22:55:25 +0000 2014 Ebola vaccine trial 'promising'
-534320089370083328 Mon Nov 17 12:20:11 +0000 2014 AUDIO: Alcoholism 'rising in women over 60'
-530174943523110912 Thu Nov 06 01:48:51 +0000 2014 'Ethical duty' to cut NHS waste
-525669967216119808 Fri Oct 24 15:27:41 +0000 2014 VIDEO: Ashya King 'has really come along'
-524505764543483905 Tue Oct 21 10:21:33 +0000 2014 NHS 'to grind to halt' with dementia
-523818750303145984 Sun Oct 19 12:51:36 +0000 2014 All nations 'have a stake' in Ebola
-523799921095241728 Sun Oct 19 11:36:47 +0000 2014 VIDEO: 'We will bring social care into NHS'
-523049207863595009 Fri Oct 17 09:53:43 +0000 2014 VIDEO: Dialysis in the comfort of your home
-522986510014873600 Fri Oct 17 05:44:35 +0000 2014 VIDEO: Ebola vaccine 'will come too late'
-522150021072818177 Tue Oct 14 22:20:40 +0000 2014 VIDEO: 'I was screened for Ebola at Heathrow'
-521808074282004480 Mon Oct 13 23:41:54 +0000 2014 GPs missing signs for lung cancer
-514191887343693824 Mon Sep 22 23:17:53 +0000 2014 Go TV-free to fight fat, says NICE
-512273977301925889 Wed Sep 17 16:16:48 +0000 2014 Ebola trial volunteer immunised
-512159588695564288 Wed Sep 17 08:42:16 +0000 2014 VIDEO: Should 'vaping bars' be banned?
-508711345659727872 Sun Sep 07 20:20:10 +0000 2014 Ashya King 'to leave hospital'
-505053577878831104 Thu Aug 28 18:05:31 +0000 2014 Genetic clues to spread of Ebola
-499453395661357056 Wed Aug 13 07:12:23 +0000 2014 VIDEO: Anorexia: research into DNA link
-494259008929140737 Tue Jul 29 23:11:45 +0000 2014 More than five-a-day 'no effect'
-487464271219941377 Fri Jul 11 05:11:53 +0000 2014 Shortage in child mental health beds
-466196163813572609 Tue May 13 12:40:01 +0000 2014 Rugby youth face scrum safety tests
-459762822142910464 Fri Apr 25 18:36:13 +0000 2014 VIDEO: Cancer fundraiser Sutton's new video
-415178630461796353 Mon Dec 23 17:54:33 +0000 2013 Mental health ward is investigated
-408552608647753728 Thu Dec 05 11:05:07 +0000 2013 Teenage birth rate falls in England
-389925139510337536 Tue Oct 15 01:26:12 +0000 2013 Care inspector could secretly film
-387472323822903296 Tue Oct 08 06:59:35 +0000 2013 VIDEO: A&amp;E jobs 'unsustainable', say doctors
+304096843380449280 Wed Feb 20 05:15:11 +0000 2013 The absolute worst breakfast cereal for you to eat today is more than 50% sugar! What is it:
+304013836304928768 Tue Feb 19 23:45:21 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+303523118301974528 Mon Feb 18 15:15:25 +0000 2013 7 foods that spike blood sugar:
+303017211021389824 Sun Feb 17 05:45:07 +0000 2013 It's more than a sweet tooth! More research confirms that you CAN be addicted to sugar. Here's how to quit:
+302881371297304578 Sat Feb 16 20:45:20 +0000 2013 The best foods to boost low blood sugar
+302685080344743937 Sat Feb 16 07:45:21 +0000 2013 Weight training boosts metabolism, helps regulate blood sugar and more:
+302435118151245825 Fri Feb 15 15:12:05 +0000 2013 #Diabetes diet recommendations are evolving. Get the facts on the best carbs, fats &amp; proteins for managing blood sugar:
+302375587606036480 Fri Feb 15 11:15:32 +0000 2013 7 foods that spike blood sugar:
+301930089959018497 Thu Feb 14 05:45:17 +0000 2013 7 foods that spike blood sugar:
+299582174280175616 Thu Feb 07 18:15:30 +0000 2013 #Fibromyalgia: Kicking the Sugar Habit
+299574637413687298 Thu Feb 07 17:45:34 +0000 2013 Which sugar substitute is best? This, and all your questions about sugar, answered!
+299483991361343490 Thu Feb 07 11:45:22 +0000 2013 Who knew there was sugar in that? 10 surprising foods that are sweeter than you thought:
+299227316347891713 Wed Feb 06 18:45:26 +0000 2013 #Fibromyalgia: Kicking the Sugar Habit
+298864001960521728 Tue Feb 05 18:41:45 +0000 2013 RT @EinsteinMed: A2: Metformin can lower blood sugar without causing weight gain or hypoglycemia (low blood sugar). -DrC #healthtalk
+298411932262756352 Mon Feb 04 12:45:23 +0000 2013 Who knew there was sugar in that? 10 surprising foods that are sweeter than you thought:
+298238270507216897 Mon Feb 04 01:15:19 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+298117494491734016 Sun Feb 03 17:15:24 +0000 2013 Honey Smacks cereal packs more sugar than a Hostess Twinkie! The top 10 list of the worst cereals:
+297581390764056576 Sat Feb 02 05:45:07 +0000 2013 Are you addicted to sugar? 7 ways to control your sugar cravings:
+296343420325208066 Tue Jan 29 19:45:51 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+295701532421275648 Mon Jan 28 01:15:13 +0000 2013 When your chocolate craving hits, be prepared with one of these no-sugar-added recipes:
+295331590932938752 Sun Jan 27 00:45:12 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+294236883200929793 Thu Jan 24 00:15:14 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+294146308791488514 Wed Jan 23 18:15:19 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+293836768304828418 Tue Jan 22 21:45:19 +0000 2013 Is high fructose corn syrup really worse than sugar? The not-so-sweet truth:
+293806601251479552 Tue Jan 22 19:45:27 +0000 2013 Treat yourself with one of these delish, no-sugar-added dessert recipes:
+293564944169984000 Tue Jan 22 03:45:11 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+293096875047915522 Sun Jan 20 20:45:15 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+292938309838184448 Sun Jan 20 10:15:10 +0000 2013 Divide grams of sugar by 4, and that's how many tsp of granulated sugar you're eating in every serving of any food!
+292862819777515524 Sun Jan 20 05:15:12 +0000 2013 The absolute worst breakfast cereal for you to eat today is more than 50% sugar! What is it:
+292779800299466752 Sat Jan 19 23:45:18 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+292289066978902016 Fri Jan 18 15:15:18 +0000 2013 7 foods that spike blood sugar:
+291783193521184768 Thu Jan 17 05:45:09 +0000 2013 It's more than a sweet tooth! More research confirms that you CAN be addicted to sugar. Here's how to quit:
+291647322176233473 Wed Jan 16 20:45:14 +0000 2013 The best foods to boost low blood sugar
+291451008452808704 Wed Jan 16 07:45:09 +0000 2013 Weight training boosts metabolism, helps regulate blood sugar and more:
+291141478930083841 Tue Jan 15 11:15:12 +0000 2013 7 foods that spike blood sugar:
+290763987770023936 Mon Jan 14 10:15:11 +0000 2013 Honey Smacks cereal packs more sugar than a Hostess Twinkie! The top 10 list of the worst cereals:
+290696028582195200 Mon Jan 14 05:45:08 +0000 2013 7 foods that spike blood sugar:
+289873130854445057 Fri Jan 11 23:15:14 +0000 2013 Your sweet-treat cravings could actually be sugar addiction. Here's what you should know:
+289865602007457792 Fri Jan 11 22:45:19 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+289457896352256000 Thu Jan 10 19:45:15 +0000 2013 Red meat, and 6 more surprising foods that'll spike your blood sugar:
+565692745596305409 Thu Feb 12 02:03:55 +0000 2015 Row over sugar-money influence
+554666841230938112 Mon Jan 12 15:50:54 +0000 2015 VIDEO: Can sugar cure painful leg ulcers?
+551921035788836865 Mon Jan 05 02:00:03 +0000 2015 Cut children's sugar, parents told
+542841960138932224 Thu Dec 11 00:43:03 +0000 2014 'Sugar worse than salt' row erupts
+511824288127516672 Tue Sep 16 10:29:54 +0000 2014 VIDEO: Further cut to sugar intake needed
+511678353347067904 Tue Sep 16 00:50:00 +0000 2014 Call for further cut in sugar intake
+482449477333053440 Fri Jun 27 09:04:53 +0000 2014 How can I cut down on sugar?
+482116928878563328 Thu Jun 26 11:03:27 +0000 2014 Call to halve target for added sugar
+481988991760101377 Thu Jun 26 02:35:05 +0000 2014 How much sugar do we eat?
+480586428129083393 Sun Jun 22 05:41:47 +0000 2014 'Sugar tax' call for child obesity
+476985179047604224 Thu Jun 12 07:11:43 +0000 2014 VIDEO: How much sugar is in your drink?
+463097355592413184 Sun May 04 23:26:28 +0000 2014 VIDEO: Reducing sugar for a week
+441232158888173568 Wed Mar 05 15:21:59 +0000 2014 WHO: Sugar intake 'should be halved'
+440912029407141888 Tue Mar 04 18:09:54 +0000 2014 Sugar tax may be needed, MPs told
+421286723583111168 Thu Jan 09 14:25:56 +0000 2014 Five foods surprisingly high in sugar
+421113047856316416 Thu Jan 09 02:55:49 +0000 2014 Campaigners vow to cut sugar in food

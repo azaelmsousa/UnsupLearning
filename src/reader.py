@@ -7,7 +7,7 @@ def readBOW(path='../../data/'):
 
 	print(os.listdir(path))
 
-	data = pd.read_csv('%s/bags.csv'%(path))
+	data = pd.read_csv('%s/bags.csv'%(path), header=None)
 
 	return data
 
@@ -15,7 +15,7 @@ def readWord2Vec(path='../../data/'):
 
 	print(os.listdir(path))
 
-	data = pd.read_csv('%s/word2vec.csv'%(path))
+	data = pd.read_csv('%s/word2vec.csv'%(path), header=None)
 
 	return data
 

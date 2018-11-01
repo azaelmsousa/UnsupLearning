@@ -1,47 +1,84 @@
-562773889290629120 Wed Feb 04 00:45:25 +0000 2015 CNN: Dr. Sanjay Gupta: Vaccines are a matter of fact
-562639586015608833 Tue Feb 03 15:51:45 +0000 2015 Whitney Houston's daughter still on ventilator
-560623676824231936 Thu Jan 29 02:21:15 +0000 2015 Fit Nation is back: Meet the new team
-545968556064919552 Fri Dec 19 15:47:02 +0000 2014 Feeling less than festive this holiday season? Here are a few easy ways to beat holiday blues.
-472130625508769792 Thu May 29 21:41:27 +0000 2014 Sunlamps used in #tanning beds must now carry the FDA's strongest warning label
-470942247081771008 Mon May 26 14:59:16 +0000 2014 Teen drops nearly 200 pounds here's the secret to his success
-466186101758373888 Tue May 13 12:00:02 +0000 2014 @gambit1154 looks like our spelling is disturbing as well, eh? good catch!
-459745030156976130 Fri Apr 25 17:25:31 +0000 2014 Smarter. Faster. Better at baseball. Brain training has infinite possibilities
-403869520663969792 Fri Nov 22 12:56:11 +0000 2013 These celebs provide some much-needed #fitspiration on a Friday morning
-378535999204110336 Fri Sep 13 15:09:49 +0000 2013 RT @upwave: Thinking about doing a cleanse? @jennifermerritt breaks down the (sometimes confusing) differing detox methods:
-367355434375450624 Tue Aug 13 18:42:15 +0000 2013 Less than a month after the last case, a boy in FL has been infected w/ rare, brain-eating #amoeba
-352825941707325441 Thu Jul 04 16:27:14 +0000 2013 Celebrating #IndependenceDay in the West? Avoid heat stroke
-577601614908932096 Mon Mar 16 22:45:30 +0000 2015 How a dying baby was revived by a ‘last hug’
-576389474227265536 Fri Mar 13 14:28:54 +0000 2015 Identical twin study shows how exercise changes brain 
-571379311711793152 Fri Feb 27 18:40:18 +0000 2015 Data from largest US #tobacco study shows high use of multiple products
-570268321221902336 Tue Feb 24 17:05:37 +0000 2015 US government report outlines foods most prone to pathogens
-568471366372098048 Thu Feb 19 18:05:10 +0000 2015 Michigan-based martial arts program helps kids kick cancer
-568091415160496128 Wed Feb 18 16:55:22 +0000 2015 In Pakistan, vaccinating children has become a deadly battle
-568068905153003520 Wed Feb 18 15:25:55 +0000 2015 5 ways to beat #winter #weight gain
-567424634510143488 Mon Feb 16 20:45:49 +0000 2015 Educated youth #football coaches can cut injuries, study says
-567356652689842176 Mon Feb 16 16:15:41 +0000 2015 American teenagers getting less and less #sleep, study shows
-566358715352489985 Fri Feb 13 22:10:14 +0000 2015 Hormone replacement therapy linked to increased risk of ovarian cancer, study finds  
-566027754551119872 Fri Feb 13 00:15:07 +0000 2015 Polish toddler found in freezing cold last year goes home
-565923440062787584 Thu Feb 12 17:20:37 +0000 2015 Softer, less strident outreach may help calm #vaccine skeptics
-565554716474875904 Wed Feb 11 16:55:26 +0000 2015 #Vaccine phobia and the #autism ‘epidemic’
-565189911549337600 Tue Feb 10 16:45:50 +0000 2015 8 suburban #Chicago residents have #measles, officials say
-564837442969419776 Mon Feb 09 17:25:15 +0000 2015 Doctors work to ease vaccine fears
-564826087268818946 Mon Feb 09 16:40:07 +0000 2015 Drunk driving wanes in US, drug use by drivers rises, report says
-563498620763516929 Fri Feb 06 00:45:15 +0000 2015 Singles who use #emojis have more #sex, study finds
-563401735780462593 Thu Feb 05 18:20:15 +0000 2015 Why you should, and shouldn't, worry about #measles
-562650528166211585 Tue Feb 03 16:35:14 +0000 2015 After long wait, Illinois to issue medical #marijuana licenses
-562291915715252224 Mon Feb 02 16:50:14 +0000 2015 Toddler food often has too much salt, sugar, finds CDC study
-560156557275824130 Tue Jan 27 19:25:05 +0000 2015 E-cigs would be banned in public places under #California bill
-559751400570499072 Mon Jan 26 16:35:08 +0000 2015 Needle-free #tattoos can check diabetics' sugar levels
-558729689897123840 Fri Jan 23 20:55:13 +0000 2015 Investigation launched into death of girl, 11, who died after refusing #chemo
-558674322588704769 Fri Jan 23 17:15:12 +0000 2015 Dad charged over sick child prompts Aussie #marijuana debate
-558301843663896576 Thu Jan 22 16:35:06 +0000 2015 New #government standards target pathogens in #poultry products
-557655106007863296 Tue Jan 20 21:45:12 +0000 2015 8-year-old ‘butterfly boy’ loses skin with every touch
-556140106135130113 Fri Jan 16 17:25:08 +0000 2015 At least 50 #Ebola hotspots remain, but new cases falling, says UN
-556134214937358338 Fri Jan 16 17:01:43 +0000 2015 Q&amp;A: Measles pops up in outbreak linked to #Disneyland parks
-555045445312188417 Tue Jan 13 16:55:21 +0000 2015 #Michigan teen who had visit from @Eminem dies of bone #cancer
-553642903709704193 Fri Jan 09 20:02:09 +0000 2015 New implant lets paralyzed rats walk again
-553259911501856768 Thu Jan 08 18:40:16 +0000 2015 Could an #avocado a day be the key to living longer?
-560753954464604162 Thu Jan 29 10:58:55 +0000 2015 VIDEO: 'New generation' drug research plan
-472186277891018752 Fri May 30 01:22:36 +0000 2014 Light bedrooms 'link to obesity'
-439497177074008064 Fri Feb 28 20:27:47 +0000 2014 Man's leg kept alive on his arm
-430441363348262912 Mon Feb 03 20:43:12 +0000 2014 VIDEO: Drinking game page stops after death
+516569778107215872 Mon Sep 29 12:46:47 +0000 2014 Happy #NationalCoffeeDay! 5 reasons to drink it before your workout:
+496704229894279168 Tue Aug 05 17:08:11 +0000 2014 #Ebola is here! 5 reasons not to panic
+486479455440089089 Tue Jul 08 11:58:35 +0000 2014 5 reasons to drink coffee before your workout this morning
+423130019045867521 Tue Jan 14 16:30:32 +0000 2014 More reasons to smooch? If you insist...
+418484385349111808 Wed Jan 01 20:50:27 +0000 2014 10 reasons to give up diet soda
+368378004361064448 Fri Aug 16 14:25:35 +0000 2013 Does soda make kids violent?
+350590734799351809 Fri Jun 28 12:25:19 +0000 2013 5 ways to kick your soda habit
+350252985235931136 Thu Jun 27 14:03:13 +0000 2013 5 ways to kick your soda habit
+312066596069855232 Thu Mar 14 05:04:09 +0000 2013 Doc: NYC soda ban crucial for health
+278207471980515328 Mon Dec 10 18:40:04 +0000 2012 Lots of salt means lots of soda
+580776899410059265 Wed Mar 25 17:02:57 +0000 2015 Quillaja: Coming to your beer, soda and shampoo  
+560889049226182657 Thu Jan 29 19:55:44 +0000 2015 6 reasons why you should sleep in the nude
+560111646992265216 Tue Jan 27 16:26:37 +0000 2015 7 reasons why you’re working out and still not losing weight
+553929493682077699 Sat Jan 10 15:00:57 +0000 2015 9 reasons you should eat more #beans
+543079096658722816 Thu Dec 11 16:25:21 +0000 2014 Tennessee couple get 35 years in prison in girl's soda death
+542738119054073857 Wed Dec 10 17:50:25 +0000 2014 #Soda: The beverage of champions?
+304217702531219457 Wed Feb 20 13:15:27 +0000 2013 10 soda alternatives to sip with dinner instead:
+304157255597694976 Wed Feb 20 09:15:15 +0000 2013 The 411 on why kids and adults alike should stay away from soda:
+303575966226214913 Mon Feb 18 18:45:25 +0000 2013 Why you should give up all soda, including diet:
+303356959501991936 Mon Feb 18 04:15:09 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+303183374611263488 Sun Feb 17 16:45:24 +0000 2013 Need an afternoon snack? Here, 9 reasons to grab this sweet treat:
+303107839294046211 Sun Feb 17 11:45:15 +0000 2013 10 reasons to perk up your day with green tea:
+302964390511144960 Sun Feb 17 02:15:14 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+302496373067100160 Fri Feb 15 19:15:30 +0000 2013 12 reasons you're not losing weight...
+302096218853621760 Thu Feb 14 16:45:25 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+301832086376050690 Wed Feb 13 23:15:51 +0000 2013 Do your kids drink soda? Our moms weigh in. Comment below the video with your opinions
+301303493057212417 Tue Feb 12 12:15:25 +0000 2013 9 reasons not to skip the gym today:
+301114718825889792 Mon Feb 11 23:45:18 +0000 2013 The top reasons to quit soda:
+300956201766776833 Mon Feb 11 13:15:24 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+300344664949661697 Sat Feb 09 20:45:22 +0000 2013 The top reasons to quit soda:
+300318167559979008 Sat Feb 09 19:00:05 +0000 2013 Sensitive to alcohol? Be wary of diet soda as a mixer:
+300163446769590272 Sat Feb 09 08:45:17 +0000 2013 Not losing any weight? Here are 4 reasons why:
+299876578073116672 Fri Feb 08 13:45:22 +0000 2013 9 reasons to eat chocolate -- now!
+299831278797205506 Fri Feb 08 10:45:22 +0000 2013 10 crazy-amazing reasons to do yoga today:
+299653814590509057 Thu Feb 07 23:00:11 +0000 2013 Why alcohol + diet soda can lead to increased safety risks:
+299499090201427968 Thu Feb 07 12:45:22 +0000 2013 Is diet soda causing you to GAIN weight?
+299446234798772224 Thu Feb 07 09:15:20 +0000 2013 237 reasons to have sex this weekend:
+299295291138510848 Wed Feb 06 23:15:32 +0000 2013 Got a headache? Here, 7 potential reasons why:
+299265095605841920 Wed Feb 06 21:15:33 +0000 2013 Got a headache? Here, 7 potential reasons why:
+298087433139007489 Sun Feb 03 15:15:56 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+298072258616889344 Sun Feb 03 14:15:39 +0000 2013 Why you should give up all soda, including diet:
+297838131212861442 Sat Feb 02 22:45:18 +0000 2013 Still drinking soda? Here's another reason why you should stop:
+297354971530272768 Fri Feb 01 14:45:24 +0000 2013 Broccoli might not be your favorite veggie, but here are 8 reasons it should be!
+297256773277085696 Fri Feb 01 08:15:12 +0000 2013 Is diet soda making you GAIN weight?
+297211489201299457 Fri Feb 01 05:15:15 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+297120927861338113 Thu Jan 31 23:15:24 +0000 2013 Why you should give up all soda, including diet:
+296954819879510016 Thu Jan 31 12:15:20 +0000 2013 9 mouth-watering reasons to eat chocolate (as if we needed more than one!):
+296365948322058240 Tue Jan 29 21:15:22 +0000 2013 10 reasons to perk up your day with green tea:
+296335772129325059 Tue Jan 29 19:15:28 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+296290494252728320 Tue Jan 29 16:15:33 +0000 2013 10 soda alternatives to sip with dinner instead:
+296222535035531264 Tue Jan 29 11:45:30 +0000 2013 10 soda alternatives to sip with dinner instead:
+296109223383818240 Tue Jan 29 04:15:14 +0000 2013 9 reasons to eat chocolate -- now!
+295777016551206912 Mon Jan 28 06:15:10 +0000 2013 4 reasons you're not losing weight:
+295573191517143040 Sun Jan 27 16:45:15 +0000 2013 14 reasons to pencil in an early bedtime tonight:
+295437299259432960 Sun Jan 27 07:45:15 +0000 2013 Isn't it time you kicked your soda habit? Try these 10 tasty soda alternatives:
+295369330391126016 Sun Jan 27 03:15:10 +0000 2013 11 reasons you're too tired for sex, and how to fix that
+294840900704681984 Fri Jan 25 16:15:23 +0000 2013 10 Health Reasons NOT to Eat Your Vegetables
+294486048355004416 Thu Jan 24 16:45:19 +0000 2013 Happy National Walking Day! 10 amazing reasons to get moving, starting today:
+294470977432199170 Thu Jan 24 15:45:26 +0000 2013 The 411 on why you shouldn't drink soda:
+294455833331367937 Thu Jan 24 14:45:16 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+294425635303084032 Thu Jan 24 12:45:16 +0000 2013 7 reasons to eat eggs for breakfast tomorrow morning:
+293829243308232706 Tue Jan 22 21:15:25 +0000 2013 Got a headache? Here, 7 potential reasons why:
+293753755487326208 Tue Jan 22 16:15:27 +0000 2013 Got a headache? Here, 7 potential reasons why:
+292983615070015488 Sun Jan 20 13:15:11 +0000 2013 10 soda alternatives to sip with dinner instead:
+292923205411274752 Sun Jan 20 09:15:09 +0000 2013 The 411 on why kids and adults alike should stay away from soda:
+292636334823202816 Sat Jan 19 14:15:13 +0000 2013 9 reasons not to skip the gym today:
+292341895722577920 Fri Jan 18 18:45:14 +0000 2013 Why you should give up all soda, including diet:
+292122950549782528 Fri Jan 18 04:15:13 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+291949344033218560 Thu Jan 17 16:45:22 +0000 2013 Need an afternoon snack? Here, 9 reasons to grab this sweet treat:
+291873796833550338 Thu Jan 17 11:45:10 +0000 2013 10 reasons to perk up your day with green tea:
+291730362869116928 Thu Jan 17 02:15:13 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+291428359022448640 Wed Jan 16 06:15:09 +0000 2013 Broccoli might not be your favorite veggie, but here are 8 reasons it should be!
+291262309555400705 Tue Jan 15 19:15:20 +0000 2013 12 reasons you're not losing weight...
+291073510753845249 Tue Jan 15 06:45:07 +0000 2013 9 reasons not to skip the gym today:
+290930119185399808 Mon Jan 14 21:15:20 +0000 2013 9 reasons not to skip the gym today:
+290862220332650500 Mon Jan 14 16:45:31 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
+290748890477637632 Mon Jan 14 09:15:12 +0000 2013 4 reasons you're not losing weight:
+290378925853523968 Sun Jan 13 08:45:05 +0000 2013 Not losing any weight? Here are 4 reasons why:
+290378920266715136 Sun Jan 13 08:45:04 +0000 2013 4 reasons why you're not losing weight:
+290341187964006401 Sun Jan 13 06:15:08 +0000 2013 14 seriously amazing reasons to go to sleep right now:
+290341184784703488 Sun Jan 13 06:15:07 +0000 2013 14 amazing reasons to go to sleep right now:
+290069399904350210 Sat Jan 12 12:15:08 +0000 2013 9 reasons not to skip the gym today:
+289880687950041088 Fri Jan 11 23:45:16 +0000 2013 The top reasons to quit soda:
+289722119271632896 Fri Jan 11 13:15:10 +0000 2013 Soda drinkers listen up! Here are 7 reasons why you should kick the soda habit:
