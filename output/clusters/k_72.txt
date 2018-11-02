@@ -1,23 +1,48 @@
-583645104130392065 Thu Apr 02 15:00:11 +0000 2015 Pregnant woman walks to hospital to give birth after ambulance carrying her crashes
-583550348352212992 Thu Apr 02 08:43:39 +0000 2015 Ambulance progress 'not fast enough'
-560447039310286848 Wed Jan 28 14:39:21 +0000 2015 Ambulance strike to go ahead in NI
-555372615632564225 Wed Jan 14 14:35:24 +0000 2015 VIDEO: PM quizzed on ambulance death claims
-552770241055318017 Wed Jan 07 10:14:30 +0000 2015 VIDEO: 'Two hours waiting in ambulance'
-552541354157686786 Tue Jan 06 19:04:59 +0000 2015 VIDEO: 'Almost 12 hour wait for an ambulance'
-546749949430349824 Sun Dec 21 19:32:00 +0000 2014 VIDEO: 'Ambulance targets may help patients'
-546553715721633792 Sun Dec 21 06:32:14 +0000 2014 Ambulance targets plan revealed
-544801420633853952 Tue Dec 16 10:29:15 +0000 2014 Ambulance service asks for help
-517323895515267072 Wed Oct 01 14:43:22 +0000 2014 Ambulance staff vote for strike
-512705069645438976 Thu Sep 18 20:49:48 +0000 2014 VIDEO: Ambulance death woman 'let down'
-512516864635699200 Thu Sep 18 08:21:57 +0000 2014 Woman's ambulance queue death review
-491478579612381184 Tue Jul 22 07:03:19 +0000 2014 Ambulance timewasters 'risk lives'
-476360581411115008 Tue Jun 10 13:49:47 +0000 2014 Ambulance crew picks up hitch-hikers
-468390165514162176 Mon May 19 13:58:12 +0000 2014 AUDIO: Mother's grief after ambulance mix-up
-445610931783880704 Mon Mar 17 17:21:39 +0000 2014 Ambulance watch: a day in the life
-435762958237331456 Tue Feb 18 13:09:19 +0000 2014 'Deadly ambulance postcode lottery'
-435685591762485249 Tue Feb 18 08:01:54 +0000 2014 More ambulance staff off with stress
-428365430957166593 Wed Jan 29 03:14:12 +0000 2014 Over-90s ambulance trips 'up 81%'
-425236903978225666 Mon Jan 20 12:02:33 +0000 2014 Ambulance wait man may have 'lived'
-417661288232140800 Mon Dec 30 14:19:45 +0000 2013 Rural ambulance times 'need rethink'
-415102476006600704 Mon Dec 23 12:51:57 +0000 2013 Ambulance service fails 999 target
-410394200635494400 Tue Dec 10 13:02:56 +0000 2013 Ambulance overturns on 999 call
+585947808772960257 Wed Apr 08 23:30:18 +0000 2015 GP workload harming care - BMA poll
+585437293399252992 Tue Apr 07 13:41:42 +0000 2015 Have GP services got worse?
+572316199926702081 Mon Mar 02 08:43:09 +0000 2015 GP shortages put pressure on doctors
+572308698271367168 Mon Mar 02 08:13:21 +0000 2015 New GP deal allows more caring time
+568066633593274368 Wed Feb 18 15:16:54 +0000 2015 Patient-safety-fear GP 'defies NHS'
+558788818896027649 Sat Jan 24 00:50:10 +0000 2015 New video aims to boost GP numbers
+558242275822956544 Thu Jan 22 12:38:24 +0000 2015 GP practices in special measures
+554078390810984448 Sun Jan 11 00:52:37 +0000 2015 VIDEO: Sussex GP weekend appointments offered
+547541289340633088 Tue Dec 23 23:56:30 +0000 2014 VIDEO: GP Christmas closure patient advice
+540856223118024704 Fri Dec 05 13:12:26 +0000 2014 Apology for wrong GP risk data
+534651418196455425 Tue Nov 18 10:16:46 +0000 2014 Watchdog ranks GP surgeries by risk
+533963827688124416 Sun Nov 16 12:44:31 +0000 2014 Patients 'struggling to book with GP'
+524825054165475329 Wed Oct 22 07:30:18 +0000 2014 VIDEO: GP explains dementia payments
+517467787640324096 Thu Oct 02 00:15:09 +0000 2014 Over 500 GP practices 'risk closure'
+516795895724011521 Tue Sep 30 03:45:17 +0000 2014 PM vows seven day GP access by 2020
+515294269246947328 Fri Sep 26 00:18:22 +0000 2014 15% of GP antibiotic courses 'fail'
+499915413380022272 Thu Aug 14 13:48:17 +0000 2014 VIDEO: Failing GP practices face closure
+499696921078804483 Wed Aug 13 23:20:04 +0000 2014 Failing GP practices face closure
+496082281585328128 Sun Aug 03 23:56:47 +0000 2014 Phone calls 'do not cut GP pressure'
+491142914806784003 Mon Jul 21 08:49:30 +0000 2014 'Plight' of some rural GP surgeries
+486233585691529217 Mon Jul 07 19:41:35 +0000 2014 VIDEO: GP prescriptions to tackle loneliness
+484634744161071104 Thu Jul 03 09:48:21 +0000 2014 Seeing GP 'getting more difficult'
+483176670577176576 Sun Jun 29 09:14:29 +0000 2014 VIDEO: Plan to boost GP cancer detection rates
+481681087660171266 Wed Jun 25 06:11:35 +0000 2014 VIDEO: BMA warns on GP waiting times
+481624400672731136 Wed Jun 25 02:26:19 +0000 2014 Patients 'facing longer GP waits'
+476732055967920128 Wed Jun 11 14:25:54 +0000 2014 'Serious failings' at GP practice
+471498761273757696 Wed May 28 03:50:39 +0000 2014 GP: 'My surgery is breaking apart'
+468405627488722944 Mon May 19 14:59:38 +0000 2014 VIDEO: Charging to see a GP?
+468368190372737024 Mon May 19 12:30:53 +0000 2014 VIDEO: Explaining GP role in new NHS structure
+466567870118653952 Wed May 14 13:17:03 +0000 2014 AUDIO: Four-hour queues to see retiring GP
+451361837271875584 Wed Apr 02 14:13:42 +0000 2014 AUDIO: GP warns over breast cancer self checks
+447755137444888576 Sun Mar 23 15:21:58 +0000 2014 VIDEO: 'Threat of extinction' to GP service
+447600108100542464 Sun Mar 23 05:05:56 +0000 2014 'Threat of extinction' to GP service
+446439951295844352 Thu Mar 20 00:15:53 +0000 2014 Commuters 'like choosing GP practice'
+415392203838472193 Tue Dec 24 08:03:13 +0000 2013 VIDEO: Millions wait a week to see a GP
+415279373965467648 Tue Dec 24 00:34:52 +0000 2013 Millions wait a week to see a GP
+410946056076025857 Thu Dec 12 01:35:49 +0000 2013 GP failings exposed by inspectors
+409193182660804608 Sat Dec 07 05:30:31 +0000 2013 Many GP cancer referrals 'too slow'
+407877474421207040 Tue Dec 03 14:22:22 +0000 2013 Missed GP appointments 'priority'
+402855604739264512 Tue Nov 19 17:47:15 +0000 2013 GP service facing 'crisis' warning
+401443026725109760 Fri Nov 15 20:14:10 +0000 2013 VIDEO: Frail patients to be given named GP
+400298566196793344 Tue Nov 12 16:26:30 +0000 2013 'Spy watch' GP report published
+399995473958023168 Mon Nov 11 20:22:07 +0000 2013 VIDEO: Walk-in closures 'may cut GP access'
+399708601792462848 Mon Nov 11 01:22:11 +0000 2013 Walk-in closures 'may cut GP access'
+397567062580543488 Tue Nov 05 03:32:28 +0000 2013 GP 'computer support' to spot cancer
+391439409641291776 Sat Oct 19 05:43:22 +0000 2013 GP exam 'unfair to minorities'
+387566520970117121 Tue Oct 08 13:13:53 +0000 2013 AUDIO: GP inspector finds 'shocking' care
+385562164972384256 Thu Oct 03 00:29:18 +0000 2013 GP services 'face cuts catastrophe'

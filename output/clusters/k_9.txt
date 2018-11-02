@@ -1,46 +1,84 @@
-494205800223875072 Tue Jul 29 19:40:19 +0000 2014 #Ebola doctor in Sierra Leone has died, @msf_field says
-492274319339556864 Thu Jul 24 11:45:18 +0000 2014 Chief #Ebola doctor in Sierra Leone has the deadly virus, #health officials say
-585839557016477697 Wed Apr 08 16:20:09 +0000 2015 Kailahun Ebola case report was a mistake, says Sierra Leone 
-585123670642810881 Mon Apr 06 16:55:28 +0000 2015 Sierra Leone's Kailahun district records first Ebola case in months 
-583389668793806848 Wed Apr 01 22:05:10 +0000 2015 10 Ebola cases found during Sierra Leone's shutdown
-582950953625735168 Tue Mar 31 17:01:52 +0000 2015 Sierra Leone Ebola lockdown exposes hundreds of suspected cases 
-581483529500012544 Fri Mar 27 15:50:51 +0000 2015 Sierra Leoneans to stay home in final push to stop Ebola
-578972212583075840 Fri Mar 20 17:31:46 +0000 2015 Sierra Leone to lock down Ebola hotspots next week 
-578311282371223552 Wed Mar 18 21:45:28 +0000 2015 Sierra Leone plans another shutdown to stop Ebola's spread  
-575734297006637056 Wed Mar 11 19:05:27 +0000 2015 Trial of Tekmira's TKM-Ebola treatment starts in Sierra Leone  
-572427458009542656 Mon Mar 02 16:05:15 +0000 2015 Sierra Leone’s vice president in quarantine for #Ebola
-571010700165980160 Thu Feb 26 18:15:34 +0000 2015 99 #Ebola cases in past week, nearly two-thirds in Sierra Leone, says WHO
-567383147214798848 Mon Feb 16 18:00:58 +0000 2015 Guinea, Sierra Leone, #Liberia target zero new #Ebola cases in 60 days
-558337095300022273 Thu Jan 22 18:55:11 +0000 2015 Sierra Leone to reopen schools in March as #Ebola infections slow
-555825554457628673 Thu Jan 15 20:35:13 +0000 2015 Red Cross nurse dies of #Ebola in Sierra Leone
-555488434551533568 Wed Jan 14 22:15:37 +0000 2015 Sierra Leone president predicts zero #Ebola cases by March end
-547800189273395200 Wed Dec 24 17:05:17 +0000 2014 Exhausted Sierra Leone medics battle #Ebola in the 'red zone'
-547061534393106432 Mon Dec 22 16:10:08 +0000 2014 #Ebola response in rural Sierra Leone not yet rapid enough
-545607457792618496 Thu Dec 18 15:52:09 +0000 2014 11th Sierra Leonean doctor dies from #Ebola
-545262849204170753 Wed Dec 17 17:02:48 +0000 2014 Sierra Leone to start house-to-house searches for #Ebola patients
-544552693919150082 Mon Dec 15 18:00:54 +0000 2014 Sierra Leone to ban holiday parties in effort to curb #Ebola cases
-543491884707246082 Fri Dec 12 19:45:37 +0000 2014 Sierra Leone locks down new #Ebola hotspot in the east
-543061565025824768 Thu Dec 11 15:15:41 +0000 2014 Bodies of #Ebola victims found piled up in Sierra Leone hospital
-542714193137635328 Wed Dec 10 16:15:21 +0000 2014 Junior doctors in Sierra Leone strike over lack of #Ebola care
-542358033549234176 Tue Dec 09 16:40:06 +0000 2014 Fear, hope mark life inside #Ebola center in Sierra Leone, doctor says
-542351874629046272 Tue Dec 09 16:15:37 +0000 2014 #Ebola still spreading in western Sierra Leone, Guinea's forest, UN says
-540250433126936577 Wed Dec 03 21:05:15 +0000 2014 Ebola spreading intensely in Sierra Leone, global toll rises, WHO says
-537718813706313729 Wed Nov 26 21:25:30 +0000 2014 Sierra Leone #Ebola burial workers dump bodies in pay protest
-581412942505115650 Fri Mar 27 11:10:22 +0000 2015 Sierra Leone in Ebola lockdown
-572704773071192064 Tue Mar 03 10:27:12 +0000 2015 $80m for Sierra Leone to fight Ebola
-548048374256005120 Thu Dec 25 09:31:29 +0000 2014 Sierra Leone declares Ebola lockdown
-545984952689369088 Fri Dec 19 16:52:11 +0000 2014 Ebola kills top Sierra Leone doctor
-545182220961337345 Wed Dec 17 11:42:25 +0000 2014 S Leone houses searched for Ebola
-542059412915908608 Mon Dec 08 20:53:29 +0000 2014 Sierra Leone tops Ebola cases
-534355264133029888 Mon Nov 17 14:39:57 +0000 2014 Sierra Leone Ebola doctor dies in US
-529949593010597888 Wed Nov 05 10:53:23 +0000 2014 Sierra Leone gets UK Ebola centre
-519157449027112960 Mon Oct 06 16:09:15 +0000 2014 Inside Sierra Leone's Ebola clinics
-517599511707779073 Thu Oct 02 08:58:34 +0000 2014 Five Ebola cases per hour in S Leone
-515104961974120448 Thu Sep 25 11:46:07 +0000 2014 Sierra Leone widens Ebola quarantine
-508242612793253888 Sat Sep 06 13:17:36 +0000 2014 VIDEO: Sierra Leone declares Ebola lockdown
-508089737727340544 Sat Sep 06 03:10:07 +0000 2014 Sierra Leone declares Ebola lockdown
-503221361716629505 Sat Aug 23 16:44:56 +0000 2014 Briton in Sierra Leone 'has Ebola'
-494797239001165824 Thu Jul 31 10:50:29 +0000 2014 S Leone declares Ebola emergency
-493141559458557953 Sat Jul 26 21:11:24 +0000 2014 Sierra Leone Ebola escapee found
-473728489091125248 Tue Jun 03 07:30:47 +0000 2014 Staff leave Sierra Leone over Ebola
-471879823799758848 Thu May 29 05:04:51 +0000 2014 Medics in Sierra Leone Ebola push
+544899870809939968 Tue Dec 16 17:00:27 +0000 2014 Teens do fewer drugs and drink less.
+518020217533124608 Fri Oct 03 12:50:18 +0000 2014 Tobacco plant may hold key to #Ebola experimental drugs
+517782481786118144 Thu Oct 02 21:05:38 +0000 2014 .@Jayteee420 Docs talking w/ him about options (ZMapp or other experimental drug TKM-Ebola) He could say no as drugs not proven #EbolaQandA
+499590416745123840 Wed Aug 13 16:16:51 +0000 2014 #Depression outcomes haven't improved in 40 yrs despite new antidepressant drugs on the market, Dr. Raison says
+499190957813022720 Tue Aug 12 13:49:33 +0000 2014 As #EbolaOutbreak death toll tops 1,000 @WHO says it's ethical to use experimental drugs
+456825983094374400 Thu Apr 17 16:06:16 +0000 2014 Just say yes? College students are increasingly using ADHD drugs as study aids
+456082567096053760 Tue Apr 15 14:52:12 +0000 2014 'Thunder God Vine' may fight #arthritis symptoms better than current drugs
+454397174231474176 Thu Apr 10 23:15:03 +0000 2014 Are drugs like #Tamiflu worth it? Learn how much they reduce #flu symptoms by:
+453148990633431040 Mon Apr 07 12:35:13 +0000 2014 #FDA program for experimental drugs is called compassionate use. Some say it could use more compassion
+413036181052727296 Tue Dec 17 20:01:14 +0000 2013 Pharma company no longer rewarding sales staff based on # of drugs they sell
+367973537467756545 Thu Aug 15 11:38:22 +0000 2013 RT @CNNWire: Can a cup and straw detect date-rape drugs? @DrinkSavvyInc thinks so …
+355781050166812672 Fri Jul 12 20:09:47 +0000 2013 New drugs could drop your cholesterol below 50
+319570032046784512 Wed Apr 03 22:00:07 +0000 2013 Cancer patients in Canada got weak doses of chemo drugs
+313689857216086016 Mon Mar 18 16:34:24 +0000 2013 RT @AmandaEnayati: Our definition of "mainstream medicine" is expanding. Drugs and surgery, yes; but what else?
+312666316781793280 Fri Mar 15 20:47:13 +0000 2013 Are doctors prescribing #ADHD 'study drugs' to healthy kids?
+311714197660651522 Wed Mar 13 05:43:50 +0000 2013 Life-support drugs run short in #Greece
+291551139441287168 Wed Jan 16 14:23:03 +0000 2013 Following the Lance Armstrong controversy? Here are the #doping drugs he's accused of taking
+279914526781091841 Sat Dec 15 11:43:18 +0000 2012 Prescription drugs 'orphan' children in eastern Kentucky
+250686592488968194 Tue Sep 25 20:01:55 +0000 2012 Fewer young adults are abusing prescription drugs. How to keep your pills safe
+585822060733149184 Wed Apr 08 15:10:37 +0000 2015 Erectile dysfunction drugs vary in effectiveness, side effects 
+583701820960337921 Thu Apr 02 18:45:33 +0000 2015 India likely to add more AIDs, TB drugs to essential medicines
+583382106266595328 Wed Apr 01 21:35:07 +0000 2015 This state has the highest use of mood-altering drugs 
+582990780786069504 Tue Mar 31 19:40:08 +0000 2015 New cancer drugs 'vastly overestimated,' says contrarian analyst 
+577512309914001409 Mon Mar 16 16:50:39 +0000 2015 Experimental cholesterol drugs cut heart risk, but questions remain 
+573590265035882496 Thu Mar 05 21:05:50 +0000 2015 Psychedelic drugs don't break your brain, researchers find
+573183769236148224 Wed Mar 04 18:10:34 +0000 2015 FDA limits use of #testosterone drugs, warns of possible heart risk
+568110331094032384 Wed Feb 18 18:10:32 +0000 2015 CVS urges cost controls for new #cholesterol drugs
+565248975843098624 Tue Feb 10 20:40:32 +0000 2015 New wave of drugs poised to shake up #glaucoma treatment
+564856296307187712 Mon Feb 09 18:40:10 +0000 2015 Guinea to expand use of experimental anti-Ebola drugs
+560875437044559873 Thu Jan 29 19:01:39 +0000 2015 AstraZeneca bets on 'genetic scissors' for range of new drugs
+559765397319483393 Mon Jan 26 17:30:45 +0000 2015 Safety concerns cloud early promise of powerful new #cancer drugs
+559760296483774467 Mon Jan 26 17:10:29 +0000 2015 Safety concerns cloud early promise of powerful new #cancer drugs
+558411367045414913 Thu Jan 22 23:50:19 +0000 2015 One dose, then surgery: New way to test brain tumor drugs
+558316063776309249 Thu Jan 22 17:31:37 +0000 2015 Doctor accused of prescribing drugs that led to 5 deaths 
+553602220449857536 Fri Jan 09 17:20:29 +0000 2015 #China to allow online sales of prescription drugs as early as this month, sources
+552881156367319040 Wed Jan 07 17:35:14 +0000 2015 Novartis taps into gene editing for next generation drugs
+550028641372225536 Tue Dec 30 20:40:21 +0000 2014 Scientists begin testing drugs for gene mutation linked to multiple cancers
+545989600964276224 Fri Dec 19 17:10:39 +0000 2014 Teen contraband cigarette use linked to other drugs
+544537742668201984 Mon Dec 15 17:01:29 +0000 2014 #Cancer patients testing drugs on mouse ‘avatars’ 
+539442642254581760 Mon Dec 01 15:35:22 +0000 2014 AbbVie adds children’s AIDS drugs to shared patent pool
+304070410352328704 Wed Feb 20 03:30:09 +0000 2013 Men who make less than their wives are more likely to need impotence drugs:
+299861473033875456 Fri Feb 08 12:45:20 +0000 2013 Arthritis Drugs May Trigger #Shingles
+292832672634511360 Sun Jan 20 03:15:24 +0000 2013 One more reason not to buy drugs on the Internet:
+289413649167167488 Thu Jan 10 16:49:25 +0000 2013 Arthritis Drugs May Trigger #Shingles
+583054274554245120 Tue Mar 31 23:52:26 +0000 2015 VIDEO: Could existing drugs offer MS hope?
+578030444026826752 Wed Mar 18 03:09:31 +0000 2015 Has the war on drugs been lost?
+578030443624165376 Wed Mar 18 03:09:31 +0000 2015 Has the war on drugs been lost?
+570344598008016896 Tue Feb 24 22:08:43 +0000 2015 'Give HIV drugs to healthy gay men'
+560736192874831873 Thu Jan 29 09:48:21 +0000 2015 Astra Zeneca drive for genetic drugs
+559992026859458562 Tue Jan 27 08:31:18 +0000 2015 VIDEO: Concern over dementia-drugs 'link'
+554451272636448768 Mon Jan 12 01:34:19 +0000 2015 How do we pay for innovative drugs?
+552917288823689217 Wed Jan 07 19:58:49 +0000 2015 'Outrage' at NHS cancer drugs move
+541917942741356545 Mon Dec 08 11:31:20 +0000 2014 Midwife facing baby drugs charges
+532623931711033344 Wed Nov 12 20:00:15 +0000 2014 Cancer Drugs Fund 'to be restricted'
+532076778525708288 Tue Nov 11 07:46:04 +0000 2014 Drugs treatment service set to close
+530370516972867584 Thu Nov 06 14:45:59 +0000 2014 Use 'old drugs' to treat cancer call
+527268166238355456 Wed Oct 29 01:18:21 +0000 2014 Drugs fund 'papers over cracks'
+524059712233287680 Mon Oct 20 04:49:06 +0000 2014 Untested drugs bill a step closer
+517967579852201985 Fri Oct 03 09:21:09 +0000 2014 VIDEO: More people tested for drugs at work
+504740193199341568 Wed Aug 27 21:20:14 +0000 2014 Cancer drugs face NHS price squeeze
+502143347989807104 Wed Aug 20 17:21:18 +0000 2014 Thousands 'eligible for Ebola drugs'
+499146776989798401 Tue Aug 12 10:53:59 +0000 2014 Untested Ebola drugs 'can be used'
+498704391180779520 Mon Aug 11 05:36:07 +0000 2014 VIDEO: Ethics experts discuss Ebola drugs
+497365084163690496 Thu Aug 07 12:54:11 +0000 2014 Ebola: Experimental drugs and vaccines
+487595095667929088 Fri Jul 11 13:51:44 +0000 2014 Gay men urged to take HIV drugs
+483808256611975168 Tue Jul 01 03:04:11 +0000 2014 Diabetes drugs 'may not be best'
+478792231222927361 Tue Jun 17 06:52:18 +0000 2014 Equal access to cancer drugs call
+473613609935704064 Mon Jun 02 23:54:18 +0000 2014 'Millions denied end-of-life drugs'
+471980697066815488 Thu May 29 11:45:41 +0000 2014 Drugs to treat alcohol top £3m
+466279741280894977 Tue May 13 18:12:08 +0000 2014 Chronotherapy: Drugs &amp; our Body Clock
+466269461805142017 Tue May 13 17:31:17 +0000 2014 VIDEO: Pfizer bid 'could delay' drugs
+466196166636351489 Tue May 13 12:40:02 +0000 2014 Pfizer takeover 'could delay' drugs
+465761483792461824 Mon May 12 07:52:45 +0000 2014 The huge cost of developing drugs
+450527506534133761 Mon Mar 31 06:58:22 +0000 2014 Breast cancer 'personal drugs' hope
+444277920324792320 Fri Mar 14 01:04:45 +0000 2014 'Early access' drugs scheme launched
+433153907930300416 Tue Feb 11 08:21:53 +0000 2014 VIDEO: EU rules on child drugs 'cost lives'
+433061172732903424 Tue Feb 11 02:13:24 +0000 2014 EU rules on child drugs 'cost lives'
+426933139026354176 Sat Jan 25 04:22:47 +0000 2014 Drugs take-up 'should be higher'
+426163857149554688 Thu Jan 23 01:25:55 +0000 2014 VIDEO: Brand: 'Drugs legal within 20 years'
+409865556980813826 Mon Dec 09 02:02:18 +0000 2013 Middle-aged drink and drugs warning
+403358245634310147 Thu Nov 21 03:04:34 +0000 2013 Prostitutes who have sex, then use anti-HIV drugs
+401542796768591873 Sat Nov 16 02:50:37 +0000 2013 Cancer diversity 'threatens drugs'
+391030995886936065 Fri Oct 18 02:40:29 +0000 2013 The drugs derived from deadly poisons
+390852617087115264 Thu Oct 17 14:51:40 +0000 2013 Medicines recalled by drugs watchdog
