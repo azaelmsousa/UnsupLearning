@@ -33,12 +33,6 @@ Dataset Information:
     * Silhuette: Identify the coesion of the cluster centroids.
     * Davies Bouldin: To measure the centroids's separation.
     * Scatter plots: Used to visualize the clusters separtions and its bellonging instances.
-    * Cosine: Use cosine as a distance metric for the centroids to avoid problems with the vector norm.
-    * Kullback Leiber Divergence: A non-euclidian evaluation for the model.
     * References: <http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf>
-3. Analyze centroids.
-    * Number of centroids from 3 to 10.
-    * Distance metrics (cosine, euclidian).
-    * Clustering measures (mean, median and `point`).
-4. Apply PCA as a Dimensionality Reduction.
+3. Apply PCA as a Dimensionality Reduction.
     * Redo all above experiments.

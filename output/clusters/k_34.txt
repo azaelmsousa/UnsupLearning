@@ -1,78 +1,246 @@
-573135489085116416 Wed Mar 04 14:58:43 +0000 2015 Breaking development: Deadly superbug-related scopes sold without FDA approval @elizcohencnn
-570643601081786368 Wed Feb 25 17:56:51 +0000 2015 Superbug source known for decades, Drs ask why FDA delayed action @elizcohencnn @jechristensen
-570601385009528832 Wed Feb 25 15:09:06 +0000 2015 FDA knew for years that the scopes behind the superbug virus was a risk @elizcohencnn
-567680053883195392 Tue Feb 17 13:40:46 +0000 2015 Return of Franken-fruit! FDA approves new apples that don't brown. @tinkertime #gmo
-473913633756688385 Tue Jun 03 19:46:29 +0000 2014 FDA approves a new drug to fight #MRSA
-472130625508769792 Thu May 29 21:41:27 +0000 2014 Sunlamps used in #tanning beds must now carry the FDA's strongest warning label
-466217579128705024 Tue May 13 14:05:07 +0000 2014 RT @cnntech: FDA approves Dean Kamen's 'Star Wars' bionic arm (by @GriggsBrandon)
-459347540089901056 Thu Apr 24 15:06:02 +0000 2014 RT @cnnbrk: The FDA proposes strict regulation of electronic cigarettes, cigars and other tobacco products.
-453148990633431040 Mon Apr 07 12:35:13 +0000 2014 #FDA program for experimental drugs is called compassionate use. Some say it could use more compassion
-423492569386217472 Wed Jan 15 16:31:11 +0000 2014 FDA asks docs to stop prescribing pain meds like Percocet/Vicodin that contain high doses of acetaminophen
-418033830310592515 Tue Dec 31 15:00:06 +0000 2013 Nov. 7: The FDA took a first step toward eliminating most trans fats from the food supply.
-412647490031058944 Mon Dec 16 18:16:42 +0000 2013 FDA on antibacterial soaps, body washes: Prove it
-411172997370609664 Thu Dec 12 16:37:36 +0000 2013 The FDA this week announced a plan to phase out use of certain antibiotics in food-producing animals.http://cnn.it/19jYezw
-410995010751193088 Thu Dec 12 04:50:21 +0000 2013 FDA wants to limit antibiotic use in livestock to reduce antibiotic-resistant bacteria
-410086482389782528 Mon Dec 09 16:40:11 +0000 2013 FDA approves breakthrough drug for treatment of hepatitis C
-398485262566580224 Thu Nov 07 16:21:04 +0000 2013 RT @cnnbrk: FDA preliminarily says trans fats not safe -- a potential step toward eliminating them from U.S. foods.
-362954682185957376 Thu Aug 01 15:15:14 +0000 2013 Why hasn't the FDA released the brand name of tainted salad mix linked to cyclospora? @drsanjaygupta explains
-355763793034350592 Fri Jul 12 19:01:12 +0000 2013 Remember the controversy over arsenic levels in apple juice? The FDA is taking action
-350606630750126080 Fri Jun 28 13:28:29 +0000 2013 FDA shuts down more than 1,600 online pharmacies
-343274561640488960 Sat Jun 08 07:53:27 +0000 2013 FDA panel OKs looser restrictions on Avandia
-332107621542817793 Wed May 08 12:20:01 +0000 2013 Indoor tanning under scrutiny by FDA, CDC
-331774007043051520 Tue May 07 14:14:22 +0000 2013 FDA warns pregnant women about migraine drug
-329573649709412352 Wed May 01 12:30:55 +0000 2013 FDA approves morning-after pill for 15 year olds
-329528403868925953 Wed May 01 09:31:08 +0000 2013 Caffeinated chewing gum catches FDA's eye
-325097215469187072 Fri Apr 19 04:03:10 +0000 2013 FDA bans generic versions of original OxyContin pills
-324336388420009984 Wed Apr 17 01:39:55 +0000 2013 FDA warns against dietary supplement linked to deaths
-304153043857965056 Wed Feb 20 08:58:31 +0000 2013 #FDA approves first bionic eye
-288641899387039745 Tue Jan 08 13:42:46 +0000 2013 New #FDA rules target foodborne illnesses
-275697053999443968 Mon Dec 03 20:24:34 +0000 2012 #FDA reversal: Keep taking recalled cholesterol drug
-274696642660282368 Sat Dec 01 02:09:17 +0000 2012 #FDA: Stop taking recalled cholesterol drug
-269520763592273920 Fri Nov 16 19:22:12 +0000 2012 FDA investigates deaths that may be linked to 5-hour ENERGY
-262879145950867456 Mon Oct 29 11:30:47 +0000 2012 FDA: Company warned of contamination before outbreak
-260847224441942016 Tue Oct 23 20:56:39 +0000 2012 FDA: More contaminated drugs in #meningitis outbreak
-253487903626387456 Wed Oct 03 13:33:20 +0000 2012 FDA launches campaign against fake internet pharmacies
-580823810863169537 Wed Mar 25 20:09:22 +0000 2015 New FDA drug approval may help in a bioterrorism attack  
-580759910092288001 Wed Mar 25 15:55:27 +0000 2015 FDA to evaluate homeopathy regulatory framework 
-580751127546847232 Wed Mar 25 15:20:33 +0000 2015 FDA approves Emergent BioSolutions' anthrax treatment 
-575311502187569152 Tue Mar 10 15:05:25 +0000 2015 US FDA warns of seizure, alcohol risk with Pfizer’s Chantix  
-573609067035369474 Thu Mar 05 22:20:33 +0000 2015 FDA staff backs injection to reduce double chin
-573553692516990976 Thu Mar 05 18:40:31 +0000 2015 FDA approves Bristol Myers Squibb’s Opdivo for lung #cancer
-573514692225802240 Thu Mar 05 16:05:32 +0000 2015 FDA updates safety alert for 'superbug' scopes
+565951161254305792 Thu Feb 12 19:10:46 +0000 2015 She gave him a kidney, he gave her his heart. An amazing meet cute story from @dsashin
+563830840715923457 Fri Feb 06 22:45:22 +0000 2015 Here are 6 proven ways to beat the odds and avoid heart disease @jechristensen
+524926225018785792 Wed Oct 22 14:12:19 +0000 2014 1.5 million ppl died last year from this curable disease:
+502957400165330944 Fri Aug 22 23:16:03 +0000 2014 Good neighbors are good for your heart. Make some connections this weekend!
+489948903564120064 Fri Jul 18 01:44:56 +0000 2014 It's here: The debilitating tropical disease with the funny name is now in U.S.
+481833740684259328 Wed Jun 25 16:18:10 +0000 2014 RT @CNN: It's an incurable skin disease that affects roughly 100M. See how it challenges personal identity:
+464798447384551424 Fri May 09 16:06:00 +0000 2014 It's such a loser of a disease that some countries eradicated it without even knowing they'd had it
+453964659368787968 Wed Apr 09 18:36:23 +0000 2014 RT @NPHW: Q5: Today's #NPHW theme is prevention. How can your community better prevent disease and illness? #NPHWchat
+442997441441583104 Mon Mar 10 12:16:35 +0000 2014 New blood test may be able to predict #Alzheimers disease with 90% accuracy. Would you want to know?
+441651042669719552 Thu Mar 06 19:06:28 +0000 2014 RT @alznyc: #Alzheimers toll may rank with #cancer, heart disease
+439495366464249857 Fri Feb 28 20:20:35 +0000 2014 Imagine all your children have the same terrible disease
+438313499488706560 Tue Feb 25 14:04:16 +0000 2014 'Painful' and 'debilitating' -- that's the disease #HaroldRamis had
+434039271763087360 Thu Feb 13 19:00:01 +0000 2014 .@Insperity formed a GIANT human heart before kicking off their awareness walk for @American_Heart #heartmonth win!
+433970298208002048 Thu Feb 13 14:25:56 +0000 2014 5 ways you can protect your #heart. Our favorite? Have more #sex!
+431788389860270081 Fri Feb 07 13:55:49 +0000 2014 . @StarJonesEsq had conquered her weight problems. So she was shocked to learn she had heart disease
+431767543045316609 Fri Feb 07 12:32:58 +0000 2014 Ingrid Steppan suffers from a rare disease called Stiff Person Syndrome
+425572307986575360 Tue Jan 21 10:15:19 +0000 2014 RT @cnnireport: Have a rare disease? We invite you to share your story with @cnnhealth here --&gt;
+425274232806072320 Mon Jan 20 14:30:52 +0000 2014 Pediatric heart surgeries to resume @KCHKids. @elizcohencnn continues her investigation
+412947104634372097 Tue Dec 17 14:07:16 +0000 2013 Nicotine in e-cigs, tobacco linked to heart disease 
+412662600439037953 Mon Dec 16 19:16:45 +0000 2013 Nicotine delivered by cigarettes -- even e-cigs -- may still contribute to heart disease, a new study suggests.
+408608087055294464 Thu Dec 05 14:45:34 +0000 2013 Imagine living w/o a pulse. Scientists are engineering a replacement for the human heart -- one that doesn't beat
+408309342761676800 Wed Dec 04 18:58:27 +0000 2013 Imagine living w/o a pulse. Scientists are engineering a replacement for the human heart -- one that doesn't beat
+407512057182175232 Mon Dec 02 14:10:20 +0000 2013 Disabled baby denied heart transplant. @elizcohencnn investigates in this heart-wrenching story
+403920998917242881 Fri Nov 22 16:20:45 +0000 2013 Olympic champion battles Graves' disease
+403656234709954561 Thu Nov 21 22:48:40 +0000 2013 3 meningococcal disease cases identified at a California college
+398088252470460416 Wed Nov 06 14:03:30 +0000 2013 Testosterone replacement is the hot new therapy for men. But "T" could be dangerous for your hubby's heart
+373184167158104064 Thu Aug 29 20:43:33 +0000 2013 Erik Nivison was a medical mystery; he went through 2 years of hellish symptoms until the diagnosis: Lyme disease.
+370201023639334912 Wed Aug 21 15:09:36 +0000 2013 Georgia teen gets a new heart after transplant saga
+369891397542768640 Tue Aug 20 18:39:16 +0000 2013 Lyme disease is more common than we thought, @CDCgov says. Know how to protect yourself:
+367670151547613185 Wed Aug 14 15:32:49 +0000 2013 Teen put on heart #transplant list after earlier denial
+364422298620534786 Mon Aug 05 16:27:01 +0000 2013 RT @cnnireport: 'Every beat of my heart hurt,' Christie Morgan said of weighing 403 pounds. Now she's 114. Find out how:
+357881300809551873 Thu Jul 18 15:15:25 +0000 2013 New @CDCgov report shows blacks die earlier than whites due to homicides, heart disease and #cancer
+357154881330614273 Tue Jul 16 15:08:53 +0000 2013 #Addiction: The disease that lies
+347423737425047552 Wed Jun 19 18:40:48 +0000 2013 BHoloo asked if parkinson’s is same as alzheimer’s. a) it’s a different disease but can have similar memory loss symptoms. -SG #AskSanjay
+347421167960879104 Wed Jun 19 18:30:35 +0000 2013 . @lalaland7 there is no hard evidence ginkgo biloba or other supplements help ward off alz disease –SG
+338991443962105856 Mon May 27 12:13:53 +0000 2013 AMAZING! What the human heart can do
+338557255186268161 Sun May 26 07:28:34 +0000 2013 AMAZING! What the human heart can do
+336875829281832961 Tue May 21 16:07:11 +0000 2013 Should tennis be worried about the 'kissing disease'?
+333988037820289024 Mon May 13 16:52:08 +0000 2013 Fruits that'll keep your heart healthy
+330635019603300352 Sat May 04 10:48:26 +0000 2013 From #Boston to Bangladesh, a nurse's heart breaks twice
+326173207008796672 Mon Apr 22 03:18:47 +0000 2013 Women at higher risk for eye disease
+312784695106605057 Sat Mar 16 04:37:37 +0000 2013 Profits over heart patients?
+312166609827549184 Thu Mar 14 11:41:34 +0000 2013 Quit #smoking -- your heart will thank you
+311530642691215360 Tue Mar 12 17:34:27 +0000 2013 What mummies can teach us about #heart #disease
+301405448278523904 Tue Feb 12 19:00:33 +0000 2013 Hey @GoRedForWomen @TheHeartTruth @WomansDay! Pls share this #heart healthy article by Allison Janney
+293736332931510272 Tue Jan 22 15:06:13 +0000 2013 Rare tropical disease close to eradication, @CarterCenter says
+292086341783666688 Fri Jan 18 01:49:45 +0000 2013 Heart disease risk doubles for rheumatoid arthritis patients
+278881650887258112 Wed Dec 12 15:19:01 +0000 2012 Give a heart-healthy gift
+273363010507128832 Tue Nov 27 09:49:55 +0000 2012 Parkison's Disease didn't stop his space walk
+269484713817804800 Fri Nov 16 16:58:57 +0000 2012 Early puberty may heighten heart risks for women
+266201453192966145 Wed Nov 07 15:32:26 +0000 2012 Heart problems are expensive
+265604603284951040 Tue Nov 06 00:00:46 +0000 2012 Controversy surrounds 'fringe' heart treatment
+263640107310018561 Wed Oct 31 13:54:34 +0000 2012 Does the #flu shot curb heart disease?
+250598926321872897 Tue Sep 25 14:13:34 +0000 2012 Advances in kids' early aging disease Progeria
+249139770150756353 Fri Sep 21 13:35:24 +0000 2012 The invisible disease that's killing our son
+245939040849911808 Wed Sep 12 17:36:51 +0000 2012 Fish oil's heart benefits may be overstated
+243454141467332608 Wed Sep 05 21:02:45 +0000 2012 Household chemical linked to heart disease
+243151961820631040 Wed Sep 05 01:01:59 +0000 2012 Disease causes 7-foot, 400 pound woman to keep growing
+242632745979883521 Mon Sep 03 14:38:49 +0000 2012 10 dead from Legionnaires' disease
+240475399178579968 Tue Aug 28 15:46:17 +0000 2012 Legionnaires' disease outbreak kills 2 at Chicago hotel
+585214180363526144 Mon Apr 06 22:55:08 +0000 2015 North Carolina families raising funds for rare disease research to save baby boys 
+584026357597888513 Fri Apr 03 16:15:08 +0000 2015 Psychiatrist coping with immune deficiency counsels others with chronic disease
+583685351581057024 Thu Apr 02 17:40:06 +0000 2015 What is Morgellons disease?
+583291559917043712 Wed Apr 01 15:35:19 +0000 2015 Web searches may predict disease risk among populations
+581124788778852352 Thu Mar 26 16:05:21 +0000 2015 Science, patients driving rare disease drug research surge  
+580831648259956737 Wed Mar 25 20:40:30 +0000 2015 Science, patients driving rare disease drug research surge  
+580442753097723904 Tue Mar 24 18:55:11 +0000 2015 Without symptoms, the value of testing for thyroid disease is unclear
+580416466689892352 Tue Mar 24 17:10:43 +0000 2015 Man’s heart damaged after swallowing razor blade lodged in bread 
+578932805218017280 Fri Mar 20 14:55:11 +0000 2015 Sixth Oregon college student stricken by meningococcal disease  
+578584249860796416 Thu Mar 19 15:50:09 +0000 2015 More evidence for rise, and race difference, in celiac disease 
+577855795750109184 Tue Mar 17 15:35:32 +0000 2015 Woman with rare disease debuts film at #SXSW 
+577607968600023040 Mon Mar 16 23:10:45 +0000 2015 You really can die of a broken heart 
+577541179815911424 Mon Mar 16 18:45:22 +0000 2015 New market for liver disease spawns race for better testing 
+576413802553544704 Fri Mar 13 16:05:34 +0000 2015 Researchers building bionic heart in Houston 
+576411221873811456 Fri Mar 13 15:55:19 +0000 2015 Colorado boy receives postcard from father who died from rare neurological disease 
+576047525356048384 Thu Mar 12 15:50:07 +0000 2015 Hormones still largely no help to heart after menopause 
+575676692058013696 Wed Mar 11 15:16:33 +0000 2015 Baby born with rare diagnosis: He only has half of his heart
+575403275245252611 Tue Mar 10 21:10:05 +0000 2015 Michigan men receive heart, lungs from same donor 
+575327965061447680 Tue Mar 10 16:10:50 +0000 2015 Promising celiac disease therapies on the horizon 
+574994360359591936 Mon Mar 09 18:05:13 +0000 2015 Diabetics can avoid problems with attention to heart risks 
+573926168296038400 Fri Mar 06 19:20:36 +0000 2015 Worried about heart defects, some NCAA schools adopt routine cardiac testing of athletes 
+573250421147475969 Wed Mar 04 22:35:25 +0000 2015 Popular #antidepressant has the power to reverse heart failure, scientists say
 573183769236148224 Wed Mar 04 18:10:34 +0000 2015 FDA limits use of #testosterone drugs, warns of possible heart risk
-572422387045691392 Mon Mar 02 15:45:06 +0000 2015 Companies' tests used in 'superbug' scope cleaning flawed, FDA says
-571429771659366400 Fri Feb 27 22:00:48 +0000 2015 FDA approves Actavis' reversible contraceptive device
-571004296252280833 Thu Feb 26 17:50:07 +0000 2015 In landmark FDA #tobacco study, e-cig questions likely to linger
-570653220575580161 Wed Feb 25 18:35:04 +0000 2015 FDA seeks to speed updates to 'superbug' device labels
-568830013639933952 Fri Feb 20 17:50:18 +0000 2015 FDA eases access to #DNA screening for inherited diseases
-568146780812132352 Wed Feb 18 20:35:22 +0000 2015 FDA approves new use for Celgene's cancer drug Revlimid
-565549613281996801 Wed Feb 11 16:35:09 +0000 2015 FDA Commissioner says #measles outbreak ‘alarming’
-563017951566368769 Wed Feb 04 16:55:14 +0000 2015 FDA approves Pfizer's high profile breast #cancer drug
+572532099921645569 Mon Mar 02 23:01:04 +0000 2015 #Peanuts may lower risk of death from heart disease
+570620658046136320 Wed Feb 25 16:25:41 +0000 2015 What’s inflammation? How to decrease your disease risk
+570246817889316864 Tue Feb 24 15:40:10 +0000 2015 5 heart-healthy superfoods
+568120316511301634 Wed Feb 18 18:50:13 +0000 2015 Inflammatory bowel disease may be from mom's bacteria, not DNA
+567783381690511360 Tue Feb 17 20:31:21 +0000 2015 #SNL's Kevin Nealon opens up about heart condition  
+566308424708005888 Fri Feb 13 18:50:24 +0000 2015 Chilean Siamese twins born with single heart can’t be separated, surgeon says 
+566300920527749120 Fri Feb 13 18:20:35 +0000 2015 Baby with devastating skin disease saved by 20-hour blood transfusions  
+566260606341505024 Fri Feb 13 15:40:23 +0000 2015 Canada confirms case of mad cow disease, first since 2011 
+566003865569738752 Thu Feb 12 22:40:12 +0000 2015 Georgia boy who had open heart surgery ‘thriving’ with pacemaker
+565993944946049024 Thu Feb 12 22:00:46 +0000 2015 Plant-based diet may lower obese children’s risk of heart disease
+565983774656450560 Thu Feb 12 21:20:22 +0000 2015 Officials seek students who partied with Oregon man stricken by meningococcal disease
+565566055876427776 Wed Feb 11 17:40:30 +0000 2015 Low vitamin D in youth linked to higher risk of heart issues in adulthood
+563488522737582080 Fri Feb 06 00:05:07 +0000 2015 Doctor says mother's prayer restarted dead boy's heart
+563064823161044992 Wed Feb 04 20:01:29 +0000 2015 Celiac disease might explain #fertility problems
+560853774676537346 Thu Jan 29 17:35:34 +0000 2015 Teammates rally around #Texas teen recovering from fifth heart surgery
+558719629263380480 Fri Jan 23 20:15:14 +0000 2015 Nasal spray shows promise as treatment for #Alzheimer's disease
+558680631342039040 Fri Jan 23 17:40:16 +0000 2015 #Vaccines group seeks $7.5B as disease fight reaches peak
+558356072709492736 Thu Jan 22 20:10:36 +0000 2015 Years of night-shifts linked to women’s risk of heart disease, #cancer
 558332060977598464 Thu Jan 22 18:35:11 +0000 2015 FDA approves Novartis's drug for painful skin disease
-555805569643466752 Thu Jan 15 19:15:48 +0000 2015 FDA says one dead, many ill after receiving non-sterile solution
-555483272621617153 Wed Jan 14 21:55:07 +0000 2015 FDA approves EnteroMedics' novel device to treat #obesity
-552896242981011456 Wed Jan 07 18:35:11 +0000 2015 #FDA clears wider use of rapid test for #influenza
-552580434715230208 Tue Jan 06 21:40:16 +0000 2015 FDA approves first dermal filler to treat #acne scarring
-551114493477265408 Fri Jan 02 20:35:09 +0000 2015 FDA drug approvals reached 18-year high in 2014
-547455438435143681 Tue Dec 23 18:15:22 +0000 2014 #FDA targets sellers of pure #caffeine powder after teen’s death
-545258474029207552 Wed Dec 17 16:45:25 +0000 2014 FDA warns against using #caffeine powder
-544940079752708100 Tue Dec 16 19:40:14 +0000 2014 FDA approves #Novartis’ Signifor drug for rare hormonal disorder
-543174756967911425 Thu Dec 11 22:45:28 +0000 2014 FDA warns Pfizer antipsychotic could cause fatal skin reaction  
-541983084292636672 Mon Dec 08 15:50:11 +0000 2014 US FDA prices 'lost pleasure' of junk food into #calorie count rule
-540590340345180162 Thu Dec 04 19:35:55 +0000 2014 FDA changes labeling for drugs used during #pregnancy, lactation
-539940890098139136 Wed Dec 03 00:35:14 +0000 2014 FDA advisers mull lifting ban on gay blood donors
-538425981401591808 Fri Nov 28 20:15:32 +0000 2014 FDA to weigh lifting ban on gay men donating blood
-538354180155785216 Fri Nov 28 15:30:13 +0000 2014 #FDA regulations highlight dangers of indoor #tanning
-302330237717454848 Fri Feb 15 08:15:20 +0000 2013 How FDA is tackling opioid abuse:
-301793192523755520 Wed Feb 13 20:41:18 +0000 2013 FDA Should Work to Cut #SugarLevels in Sodas
-300216357964881921 Sat Feb 09 12:15:32 +0000 2013 FDA likes new type 2 #diabetes drug.
-299136713962422274 Wed Feb 06 12:45:24 +0000 2013 FDA Warns About This Gastrointestinal Product:
-298558560374247424 Mon Feb 04 22:28:02 +0000 2013 Hoping to Ease Shortage, FDA Fast-Tracks Generic Form of #CancerDrug
-298527861848027137 Mon Feb 04 20:26:03 +0000 2013 Beware Fake #FluTreatments, FDA Warns
-297928685397348352 Sun Feb 03 04:45:08 +0000 2013 FDA Warns About This Gastrointestinal Product:
-296350879127322624 Tue Jan 29 20:15:30 +0000 2013 FDA adds more warnings for Lipitor, Crestor, and Zocor
-294923938255994880 Fri Jan 25 21:45:20 +0000 2013 Baby Deaths Linked to Formula Thickener, Says FDA
-294907681540554752 Fri Jan 25 20:40:45 +0000 2013 FDA Approves Over-the-Counter #BladderControl Drug for Women
-292008134808072193 Thu Jan 17 20:38:59 +0000 2013 RT @CSPI: .@MPHSamBader They aren't currently, but calorie labeling regulations are coming out soon from FDA. #healthtalk
-289721803344080897 Fri Jan 11 13:13:55 +0000 2013 FDA likes new type 2 #diabetes drug.
-405339873491443712 Tue Nov 26 14:18:51 +0000 2013 FDA bans personal genetic tests
+558012488089088000 Wed Jan 21 21:25:19 +0000 2015 ‘The next Anna Kournikova,’ 23, dies of heart failure at tennis practice
+557999911472746496 Wed Jan 21 20:35:20 +0000 2015 How the Fischer Center is leading the search in finding a cure for #Alzheimer’s disease
+557295233873244160 Mon Jan 19 21:55:12 +0000 2015 Baby's age at gluten exposure not tied to celiac disease
+557234887745601536 Mon Jan 19 17:55:24 +0000 2015 Mystery #kidney disease killing Sri Lankan farmers
+557221097700343808 Mon Jan 19 17:00:37 +0000 2015 Europe's tuberculosis hub in Britain seeks to wipe out the disease
+556184176857473024 Fri Jan 16 20:20:15 +0000 2015 Teen with rare joint disease paints with his mouth
+555855759616245761 Thu Jan 15 22:35:15 +0000 2015 Your blood type may put you at risk for heart disease
+555814325446004740 Thu Jan 15 19:50:36 +0000 2015 Is most younger women’s heart disease preventable?
+555503504836796416 Wed Jan 14 23:15:30 +0000 2015 Scientists find key gene mutations behind inherited heart disease
+555449311581175808 Wed Jan 14 19:40:10 +0000 2015 Stable #childhood may lead to #healthy adult #heart
+555402748989308928 Wed Jan 14 16:35:08 +0000 2015 #Legionnaire's disease bacteria found at #Bronx housing complex
+555092389996810241 Tue Jan 13 20:01:53 +0000 2015 Rare disease leaves girl with half a kidney
+555080729831682048 Tue Jan 13 19:15:33 +0000 2015 Maine woman ‘allergic to the world,’ thanks to rare disease
+554689421615054848 Mon Jan 12 17:20:38 +0000 2015 Parents honor son who died from rare heart disease with annual hockey tournament 
+553302655045742593 Thu Jan 08 21:30:07 +0000 2015 Two-time heart transplant recipient’s heart ready for #wedding
+547805451900182531 Wed Dec 24 17:26:12 +0000 2014 Teen with rare disease gets #Christmas surprise during #police traffic stop 
+546106473663954944 Sat Dec 20 00:55:04 +0000 2014 Salt Lake City woman diagnosed with rare disease that caused enlarged heart during #pregnancy
+546097692573958144 Sat Dec 20 00:20:10 +0000 2014 Rare disease causes #California baby’s skin to blister, tear by touch
+546034781860143104 Fri Dec 19 20:10:11 +0000 2014 Boy survives after having nail scissors lodged in his heart
+546010885719089152 Fri Dec 19 18:35:14 +0000 2014 Heart experts warn of air pollution dangers
+545989580244410368 Fri Dec 19 17:10:34 +0000 2014 Boy survives after having nail scissors lodged in his heart
+544974027790364672 Tue Dec 16 21:55:08 +0000 2014 Females’ age during first menstrual cycle tied to heart disease risk, study finds
+543475471946887168 Fri Dec 12 18:40:24 +0000 2014 Georgia man turns to #boxing to help ease #Parkinson's disease symptoms
+542808679289212928 Wed Dec 10 22:30:48 +0000 2014 #Christmas carolers sing for girl with terminal disease
+542039717119008768 Mon Dec 08 19:35:13 +0000 2014 Australian girl, 4, has rare genetic disease that causes #epilepsy
+542028410881851393 Mon Dec 08 18:50:18 +0000 2014 Genes may play greater role in Lou Gehrig's disease
+540660679964131328 Fri Dec 05 00:15:25 +0000 2014 Rare conjoined twins, sharing a heart, born at Georgia hospital
+540631672598036480 Thu Dec 04 22:20:09 +0000 2014 Georgia girl, 3, in need of heart transplant after receiving rare diagnosis
+540181228818010112 Wed Dec 03 16:30:15 +0000 2014 Heart disease and diabetes risks tied to carbs, not fat, study finds
+538394420622925824 Fri Nov 28 18:10:07 +0000 2014 Celiac disease showing up in many forms and at all ages
+304304685681090560 Wed Feb 20 19:01:05 +0000 2013 RT @MontefioreNYC: The future of #heart treatment: How #StemCell research can improve the heart
+304303530645286912 Wed Feb 20 18:56:30 +0000 2013 RT @TheHeartTruth: A4: @EverydayHealth, people with high cholesterol have a greater chance of developing heart disease #HealthTalk
+304303087663861760 Wed Feb 20 18:54:44 +0000 2013 Q10: What's on the horizon in heart disease treatment? #HealthTalk
+304302567595339776 Wed Feb 20 18:52:40 +0000 2013 RT @TheHeartTruth: A8: @EverydayHealth, decreasing heart disease risk starts with managing risk factors:
+304301156925063168 Wed Feb 20 18:47:04 +0000 2013 Q8: How can I decrease my risk of heart disease? #HealthTalk
+304295316130242560 Wed Feb 20 18:23:51 +0000 2013 Q4: How is high cholesterol related to heart disease and what do my cholesterol and triglyceride numbers mean? #HealthTalk
+304294837501448192 Wed Feb 20 18:21:57 +0000 2013 RT @ChristysChomp: A3: like high lipids, smoking &amp; obesity, high BP is a risk factor for heart disease. #HealthTalk @EverydayHealth
+304294121747664897 Wed Feb 20 18:19:06 +0000 2013 Q3: How is high blood pressure related to heart disease? #HealthTalk
+304293572595834882 Wed Feb 20 18:16:55 +0000 2013 RT @ChristysChomp: #HealthTalk A2: the symptoms of heart disease/problems do differ b/w men &amp; women. The disease itself doesn't.
+304293017139949568 Wed Feb 20 18:14:43 +0000 2013 RT @MontefioreNYC: FACT: Coronary heart disease costs more than $108 Billion each year. #Staggering #HealthTalk
+304293001683951616 Wed Feb 20 18:14:39 +0000 2013 RT @foundersheart: @RMichlerMD couldn't be more true. FACT: Heart disease is largely preventable. #HealthTalk #HeartHealth
+304292182066593792 Wed Feb 20 18:11:24 +0000 2013 Q2: How is heart disease different in women than heart disease in men? #HealthTalk
+304291571069767680 Wed Feb 20 18:08:58 +0000 2013 RT @MontefioreNYC: A1 WATCH: There are 2 risk factors for #heart #disease you can’t change.
+304291550333128704 Wed Feb 20 18:08:53 +0000 2013 RT @RMichlerMD: A1: Risk factors are: high bp, high cholesterol, diabetes, cig smoking, obesity &amp; fam history of heart disease #healthtalk
+304290610028900352 Wed Feb 20 18:05:09 +0000 2013 Q1: How many Americans are affected by heart disease and what are the risk factors? #HealthTalk
+304289351234383872 Wed Feb 20 18:00:09 +0000 2013 Hello everyone and welcome to this #HealthTalk on #heart disease care and prevention!
+304256363993915392 Wed Feb 20 15:49:04 +0000 2013 Do you know the differences between #heart disease in women &amp; in men? Learn more during our #HealthTalk TODAY @ 1pmET
+303708016946057216 Tue Feb 19 03:30:08 +0000 2013 How not to win a woman's #heart:
+303473808126386178 Mon Feb 18 11:59:28 +0000 2013 Does Crohn's Disease Run in Your Family?
+303311660897153024 Mon Feb 18 01:15:09 +0000 2013 Male-pattern baldness, swelling, and other not-so-obvious physical signs of heart disease:
+303281465188286464 Sun Feb 17 23:15:10 +0000 2013 Go fish! Doing so can help your hair, prevent disease, and even strengthen sperm!
+303213539064176642 Sun Feb 17 18:45:15 +0000 2013 #WeightSurgery Reverses Heart Damage in Some Teens
+303160688417853440 Sun Feb 17 15:15:15 +0000 2013 Common Heart Drug Might Improve #LungCancer Survival
+302469925421867009 Fri Feb 15 17:30:24 +0000 2013 Early research suggests that biologics reduce blood vessel damage &amp; protect against certain types of heart disease.
+302123287138422785 Thu Feb 14 18:32:59 +0000 2013 RT @eatsmartbd: A5 Soluble fibers in #wholegrains #oats #beans +other foods are linked to a lower risk of #heart disease #healthtalk #diet
+302122896732610560 Thu Feb 14 18:31:26 +0000 2013 Q5 Which foods make your #heart smile? #VDay #healthtalk
+302122713135321088 Thu Feb 14 18:30:42 +0000 2013 RT @eatsmartbd: A4 #Heart disease alone costs the US $108.9 billion/yr. There may be even greater costs to u + ur family #healthtalk
+301718737285967872 Wed Feb 13 15:45:27 +0000 2013 Do Kids' #BPA Levels Predict Future Disease?
+300963725819658242 Mon Feb 11 13:45:18 +0000 2013 The surprising disease your morning cup of coffee might help prevent:
+300692054990794752 Sun Feb 10 19:45:47 +0000 2013 Depriving lymphoma cells of good cholesterol may offer a new drug-free approach to eradicating the disease.
+299904974110994432 Fri Feb 08 15:38:12 +0000 2013 RT @mbloudoff: Potential Multiple Sclerosis Treatment Uses Skin Cells to Slow Disease
+299576801712287744 Thu Feb 07 17:54:10 +0000 2013 RT @DanyaNasser: @EverydayHealth A7 :Make sure you have a stack of heart healthy food at home!Go out for a run more often,Let your heart breathe #Healthtalk
+299576439072772096 Thu Feb 07 17:52:43 +0000 2013 Q8: What are some recommended resources for heart-healthy living? #HealthTalk
+299565925072519169 Thu Feb 07 17:10:56 +0000 2013 Q2: #Heart disease affects many people but risk factors can be improved through lifestyle changes. Can you guess what they are? #HealthTalk
+299565257930711040 Thu Feb 07 17:08:17 +0000 2013 RT @RachelBegunRD: A1 Fact: coronary heart disease costs U.S. $108 billion each year in health care services, meds and lost productivity. #healthtalk
+299565024739991552 Thu Feb 07 17:07:22 +0000 2013 RT @RachelBegunRD: A1 Fact: Heart disease is THE leading cause of death for both men AND women. It is responsible for 1 in 4 deaths in America #healthtalk
+299564651107192832 Thu Feb 07 17:05:53 +0000 2013 Q1: Who here knows someone affected by heart disease? Let's share some facts on Americans and heart disease. #HealthTalk
+299563319214346240 Thu Feb 07 17:00:35 +0000 2013 Hello everyone and welcome to this #HealthTalk on #heart healthy living in honor of #HeartHealthMonth!
+298887621671780352 Tue Feb 05 20:15:36 +0000 2013 What do egg yolks and smoking have in common? Hint: it has to do with your #heart:
+298864158915563521 Tue Feb 05 18:42:22 +0000 2013 RT @EinsteinMed: A7: Metformin needs to be used cautiously in people with certain types of kidney or heart disease. -DrC #healthtalk
+298489311412772864 Mon Feb 04 17:52:52 +0000 2013 RT @EDDFoundation: a8: Some facts... #healthtalk rare #cancer/disease #infographic
+296864172321419264 Thu Jan 31 06:15:08 +0000 2013 Obese girls more likely to develop this #disease
+296664841219878912 Wed Jan 30 17:03:04 +0000 2013 Another reason to eat your greens: A vegetarian diet can reduce your risk of heart disease, found a UK study:
+296373494030155777 Tue Jan 29 21:45:21 +0000 2013 Drinking beer can reduce your risk of heart disease. Here, tap into its other health benefits:
+296037707010940928 Mon Jan 28 23:31:04 +0000 2013 A new stem cell technology may result in new therapies for a rare heart rhythm disorder:
+295895429630013442 Mon Jan 28 14:05:42 +0000 2013 Blood sugar is NOT what matters most for preventing heart disease in people with #diabetes, new study finds
+295361774771916800 Sun Jan 27 02:45:09 +0000 2013 What do egg yolks and smoking have in common? Hint: it has to do with your #heart:
+294901286703353856 Fri Jan 25 20:15:20 +0000 2013 What is good for your heart, may lift your mood, will help you live longer and tastes delicious? Find out here:
+294433197108912128 Thu Jan 24 13:15:19 +0000 2013 6 easy ways to explain Crohn's disease:
+293995295086370816 Wed Jan 23 08:15:15 +0000 2013 Which snack is better for your heart: popcorn or pretzels? Take the quiz and find out how well you know your heart:
+293933139196276739 Wed Jan 23 04:08:16 +0000 2013 Depriving lymphoma cells of good cholesterol may offer a new drug-free approach to eradicating the disease.
+293820555440820224 Tue Jan 22 20:40:53 +0000 2013 #WeightSurgery Reverses Heart Damage in Some Teens
+293685754096406528 Tue Jan 22 11:45:14 +0000 2013 Did you know flossing can help prevent heart disease? 7 health problems that start in your mouth:
+292077644315500545 Fri Jan 18 01:15:11 +0000 2013 Male-pattern baldness, swelling, and other not-so-obvious physical signs of heart disease:
+292047449894297600 Thu Jan 17 23:15:12 +0000 2013 Go fish! Doing so can help your hair, prevent disease, and even strengthen sperm!
+291977823688744960 Thu Jan 17 18:38:32 +0000 2013 Q7 STAT What are the best foods to protect my heart? #healthtalk
+290915019057664000 Mon Jan 14 20:15:20 +0000 2013 What do egg yolks and smoking have in common? Hint: it has to do with your #heart:
+289823554671894529 Fri Jan 11 19:58:14 +0000 2013 Do Kids' #BPA Levels Predict Future Disease?
+289729672714014722 Fri Jan 11 13:45:11 +0000 2013 The surprising disease your morning cup of coffee might help prevent:
+289654160331259904 Fri Jan 11 08:45:07 +0000 2013 Drinking beer can reduce your risk of heart disease. Here, tap into its other health benefits:
+585947807816650752 Wed Apr 08 23:30:18 +0000 2015 Short people's 'heart risk greater'
+581085280116953088 Thu Mar 26 13:28:21 +0000 2015 First Europe non-beating heart swap
+572798386262429696 Tue Mar 03 16:39:12 +0000 2015 Formal end to NI child heart surgery
+570396704584806400 Wed Feb 25 01:35:46 +0000 2015 Skin test spots Alzheimer's disease
+565366521900576769 Wed Feb 11 04:27:37 +0000 2015 Breath test for Parkinson's disease
+544402782254403585 Mon Dec 15 08:05:12 +0000 2014 Rare disease service 'overwhelmed'
+538883431975768064 Sun Nov 30 02:33:16 +0000 2014 Protein 'key to heart muscle defect'
+537790785861586944 Thu Nov 27 02:11:29 +0000 2014 GPs 'failing' to find liver disease
+534757874157645824 Tue Nov 18 17:19:47 +0000 2014 Concern over rising heart infection
+525625524870053888 Fri Oct 24 12:31:05 +0000 2014 First transplant of 'dead' heart
+518581692798230531 Sun Oct 05 02:01:25 +0000 2014 Chagas disease - inheriting a silent killer
+516369086708588545 Sun Sep 28 23:29:18 +0000 2014 Heart disease warnings 'missed'
+511540248623345665 Mon Sep 15 15:41:13 +0000 2014 Child heart surgery views sought
+508449635887628288 Sun Sep 07 03:00:14 +0000 2014 Deadly disease v untested treatment
+502070778100084736 Wed Aug 20 12:32:56 +0000 2014 Student in lifesaving heart finding
+494027177143193601 Tue Jul 29 07:50:32 +0000 2014 Heart ops backlog pledge by minister
+482719050980524032 Sat Jun 28 02:56:04 +0000 2014 What Leonardo taught us about the heart
+481272753245274113 Tue Jun 24 03:09:00 +0000 2014 Call to improve heart op consent
+476313848924749825 Tue Jun 10 10:44:05 +0000 2014 'World's youngest' heart baby dies
+476113718657294337 Mon Jun 09 21:28:50 +0000 2014 'Tomato in a pill' for heart disease
+473977393170763777 Tue Jun 03 23:59:51 +0000 2014 Centenarians 'are outliving disease'
+473723308081307649 Tue Jun 03 07:10:12 +0000 2014 More heart wait patients dying
+471448143427403776 Wed May 28 00:29:31 +0000 2014 Gene test for heart risk rolled out
+466968888035389440 Thu May 15 15:50:33 +0000 2014 Stressful films 'endanger the heart'
+466354579102502913 Tue May 13 23:09:30 +0000 2014 Exercise 'messes with heart rhythm'
+465761483054272514 Mon May 12 07:52:45 +0000 2014 28,000 'may have faulty heart genes'
+464914188289048576 Fri May 09 23:45:54 +0000 2014 Bowel disease A-to-Z guide launched
+464731726564950017 Fri May 09 11:40:52 +0000 2014 Rare disease screening for newborns
+464202048406179840 Thu May 08 00:36:07 +0000 2014 Viagra could treat muscle disease
+463155443422855168 Mon May 05 03:17:17 +0000 2014 Brittle bone disease protein 'find'
+462418182288846848 Sat May 03 02:27:40 +0000 2014 Baby heart risk for pregnant smokers
+461186890935177216 Tue Apr 29 16:54:57 +0000 2014 MPs want newborn muscle disease test
+461080745394462720 Tue Apr 29 09:53:10 +0000 2014 Call for public heart shock machines
+449385650546950145 Fri Mar 28 03:21:02 +0000 2014 Stool test 'diagnoses bowel disease'
+448514608308162560 Tue Mar 25 17:39:50 +0000 2014 ‘Scandal’ of liver disease inaction
+447600107249098752 Sun Mar 23 05:05:56 +0000 2014 Dog disease could be medical boon
+443941470882385920 Thu Mar 13 02:47:49 +0000 2014 Children's heart surgery unit 'safe'
+442828566812565504 Mon Mar 10 01:05:32 +0000 2014 Women get heart disease too
+437824750425894913 Mon Feb 24 05:42:09 +0000 2014 Rare 'polio-like' disease reports
+436553234514075648 Thu Feb 20 17:29:36 +0000 2014 Major heart healing trial starts
+432334908493553664 Sun Feb 09 02:07:29 +0000 2014 Exotic Disease Detectives
+431991158705627136 Sat Feb 08 03:21:32 +0000 2014 'I didn't let bowel disease beat me'
+426558500643172352 Fri Jan 24 03:34:06 +0000 2014 Babies' heart risk 'shaped early on'
+410024816289124352 Mon Dec 09 12:35:08 +0000 2013 Experts to review heart surgery
+408785842069463040 Fri Dec 06 02:31:54 +0000 2013 Vitamin D's disease role queried
+408053227205042176 Wed Dec 04 02:00:45 +0000 2013 Pump provides liver disease relief
+407862106491338753 Tue Dec 03 13:21:18 +0000 2013 Family 'in limbo' over heart surgery
+407400461566636032 Mon Dec 02 06:46:53 +0000 2013 Energy drinks 'change heart beat'
+405719407160070148 Wed Nov 27 15:26:59 +0000 2013 Man survives heart stopping 17 times
+403793862927212544 Fri Nov 22 07:55:33 +0000 2013 Liver disease increase among teens
+392807423271907328 Wed Oct 23 00:19:22 +0000 2013 Saturated fat heart disease 'myth'
+392275152173424640 Mon Oct 21 13:04:19 +0000 2013 Cheney: Heart implant hack credible
+387812934417539072 Wed Oct 09 05:33:03 +0000 2013 VIDEO: Plane noise 'link' to heart disease
+387743622549889024 Wed Oct 09 00:57:38 +0000 2013 Plane noise 'link' to heart disease
