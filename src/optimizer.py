@@ -47,7 +47,7 @@ def elbow_kmeans(X, min_k=2, eps = 1e-2, step=10):
     return best_K, Ks, Js
 
 def linkage_cluster_dendogram(X, opt_method='ward'): 
-    X_linked = linkage(X, opt_method)
+    X_linked = linkage(X, opt_method, )
     plt.figure(figsize=(10,5))
     dendrogram(X_linked,                
                 truncate_mode='lastp',
