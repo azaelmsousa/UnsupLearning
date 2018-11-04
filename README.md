@@ -4,6 +4,28 @@ This is the third project of the Machine Learning subject (MO444) and it approac
 
 ---
 
+
+## Reproducibility: 
+### Requirements
+`pip install -r requirements.txt`
+
+### Experiments
+
+#### Optimizations
+
+The First Experiments were done using L2 normalized descriptors and Non-Normalized.
+
+The XX stands for 01 when normalized and 02 when non-normalized.
+
+* `XX Elbow Kmeans - BoW.ipynb` - Using elbow method to select the number of clusters using Bag of Words as descriptor.
+* `XX Elbow Kmeans - Word2Vec.ipynb` - Using elbow method to select the number of clusters using Bag of Word2Vec.
+* `XX Hierarchical - BoW.ipynb` - Using an hierarchical clustering method with dendograms to select the number of clusters using Bag of Words as descriptor.
+* `XX Hierarchical - Word2Vec.ipynb` - Using an hierarchical clustering method with dendograms to select the number of clusters using Bag of Word2Vec.
+
+#### Metrics Comparison
+
+The results from the optimizations were selected and compared using the metrics selected.
+
 ## Activities
 
 1. Discover the number of groups present in the data or a reliable range of possible values. Do some experiments in this regard.
@@ -27,12 +49,12 @@ Dataset Information:
 
 ## Planning
 
-1. Develop an EDA to understand the basics of the dataset `notebooks\EDA.ipynb`
-2. Define metrics for the model evaluation and create a flow for that matter.
+1. Develop an EDA to understand the basics of the dataset. `notebooks\exploratory\`
+2. Define metrics for the model evaluation and create a flow for that matter. `notebooks\exploratory\`
     * Elbow: For the defition of the cluster numbers.
     * Silhuette: Identify the coesion of the cluster centroids.
     * Davies Bouldin: To measure the centroids's separation.
     * Scatter plots: Used to visualize the clusters separtions and its bellonging instances.
     * References: <http://www.ims.uni-stuttgart.de/institut/mitarbeiter/schulte/theses/phd/algorithm.pdf>
-3. Apply PCA as a Dimensionality Reduction.
+3. Apply PCA as a Dimensionality Reduction. 
     * Redo all above experiments.
