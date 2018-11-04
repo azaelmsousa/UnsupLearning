@@ -9,7 +9,8 @@ from sklearn.cluster import DBSCAN
 from sklearn.decomposition import PCA 
 from sklearn.preprocessing import StandardScaler, RobustScaler
 from sklearn.metrics import silhouette_score
-
+from scipy.cluster.hierarchy import dendrogram, linkage, fcluster
+from matplotlib import pyplot as plt
 
 def elbow_kmeans(X, min_k=2, eps = 1e-2, step=10):
     error = 0
@@ -44,3 +45,19 @@ def elbow_kmeans(X, min_k=2, eps = 1e-2, step=10):
     print("\nBest k:",best_K)
     print("Number of iterations:",it)
     return best_K, Ks, Js
+
+def linkage_cluster_dendogram(X, opt_method='ward'): 
+    X_linked = linkage(X, opt_method)
+    plt.figure(figsize=(10,5))
+    dendrogram(X_linked,                
+                truncate_mode='lastp',
+                distance_sort='descending')
+    plt.show()
+
+
+    return X_linked
+
+def fcluster_cut(X, max_d, opt_method='ward'): 
+    X_linked = linkage(X, opt_method)
+    clusters = fcluster(X_linked, max_d, criterion='distance')
+    return clusters    
