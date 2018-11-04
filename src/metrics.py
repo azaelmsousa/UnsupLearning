@@ -13,16 +13,19 @@ def applyDaviesBouldinScore(X,y_pred):
 
 	score_db = davies_bouldin_score(X,y_pred)
 	print("Davies Bouldin")
-	print(score_db+"\n")
+	print(score_db)
+	print()
 
 def applyCalinskiScore(X,y_pred):
 
 	score_ch = calinski_harabaz_score(X,y_pred)
 	print("Calinski and Harabaz")
-	print(score_ch+"\n")
+	print(score_ch)
+	print()
 
 def applySilhouetteScore(X,y_pred):
 
 	score_s = silhouette_score(X,y_pred)
 	print("Silhouette Score")
-	print(score_s+"\n")
+	print(score_s)
+	print()

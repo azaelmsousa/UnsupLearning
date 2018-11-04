@@ -4,22 +4,23 @@ import sklearn
 import os
 
 
-def readBOW(path='../../data/'):
+def readBOW(path='../../data/', normed=True):
 
 	print(os.listdir(path))
 
 	data = pd.read_csv('%s/bags.csv'%(path), header=None)
-
-	data = sklearn.preprocessing.normalize(data, axis=1)
+	if normed:
+		data = sklearn.preprocessing.normalize(data, axis=1)
 	return data
 
-def readWord2Vec(path='../../data/'):
+def readWord2Vec(path='../../data/', normed=True):
 
 	print(os.listdir(path))
 
 	data = pd.read_csv('%s/word2vec.csv'%(path), header=None)
-
-	data = sklearn.preprocessing.normalize(data, axis=1)
+	
+	if normed:
+		data = sklearn.preprocessing.normalize(data, axis=1)
 
 	return data
 
