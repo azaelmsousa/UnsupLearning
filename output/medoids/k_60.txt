@@ -1,7 +1,6 @@
-296514416881573889 Wed Jan 30 07:05:20 +0000 2013 Healthy housing for immigrant farmworkers
-278881650887258112 Wed Dec 12 15:19:01 +0000 2012 Give a heart-healthy gift
-580080351982161920 Mon Mar 23 18:55:07 +0000 2015 Is a Paleo diet healthy? 
-575779640272384001 Wed Mar 11 22:05:38 +0000 2015 8 healthy foods that are also inexpensive  
-562266168866914304 Mon Feb 02 15:07:55 +0000 2015 8 healthy foods for midnight snacking
-300042645982552065 Sat Feb 09 00:45:15 +0000 2013 How healthy is your diet? Take our quiz and find out:
-468576953352474624 Tue May 20 02:20:26 +0000 2014 Why Mediterranean diet is 'healthy'
+585947808772960257 Wed Apr 08 23:30:18 +0000 2015 GP workload harming care - BMA poll
+534651418196455425 Tue Nov 18 10:16:46 +0000 2014 Watchdog ranks GP surgeries by risk
+533963827688124416 Sun Nov 16 12:44:31 +0000 2014 Patients 'struggling to book with GP'
+491142914806784003 Mon Jul 21 08:49:30 +0000 2014 'Plight' of some rural GP surgeries
+484634744161071104 Thu Jul 03 09:48:21 +0000 2014 Seeing GP 'getting more difficult'
+468405627488722944 Mon May 19 14:59:38 +0000 2014 VIDEO: Charging to see a GP?

@@ -117,3 +117,4 @@ def visualize_sup_scatter_hover(data_2d, label_ids, info, figsize=(20,20), color
 def create_tsne_labels(X, smp_sz = 7000):    
     tsne_bow = TSNE(n_jobs=-1, n_components=2, perplexity=500, verbose=True)
     tsne_bow_result = tsne_bow.fit_transform(X[:smp_sz])
+    return tsne_bow_result
